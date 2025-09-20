@@ -1,0 +1,149 @@
+
+Message: 16.10.2024 18:16:54.909 7844 [build:146 date:2024-07-30 18:03:35 +0300] x64 libcurl/8.7.1 Schannel zlib/1.3.1 nghttp2/1.60.0
+CPU=AMD_ZEN3,FPU,TSC,CX8,CLFSH,MMX,AES,ERMS,F16C,FMA3,VAES,VPCLMULQDQ,BMI1,BMI2,RDSEED,CLFLUSHOPT,CLWB,SSE,SSE2,SSE3,SSSE3,SSE4_1,SSE4_2,SSE4A,AVX,AVX2,PCLMULQDQ,CX16,SHA,POPCNT,MOVBE,RDRND,ADX,LZCNT,FS_REP_MOV
+  StartCommandLine: C:\Users\Дмитрий\Downloads\win64\bstool.exe D:\bin\ "-src=D:\Мои программы\C#\Penteract\" -token=bc74616301bec701fa300ff530c39d119901214050586486e70063b3c507125c -configscheckonly -skipselfupdate
+  CurrentDirectory: D:\bin
+Message: 16.10.2024 18:16:54.911 7844 Free space D:\bin\ 646,37 GB
+Message: 16.10.2024 18:16:54.912 7844 Config (does not exist yet): D:\bin\build.ini
+Message: 16.10.2024 18:16:55.417 7844 Config: D:\bin\build.ini
+Message: 16.10.2024 18:16:55.418 7844 ServerUrl: http://adm-store.dl.mail.ru/admin.php; GameId: 0.2037116
+Message: 16.10.2024 18:16:55.918 7844 Free space D:\bin\ 646,37 GB
+Message: 16.10.2024 18:16:55.918 7844 gc_id=0.2037116
+Message: 16.10.2024 18:16:55.918 7844 Finish OK bstool.exe; Seconds: 1
+Message: 16.10.2024 18:16:55.918 7844 ExitCode=0 OK
+
+
+Message: 16.10.2024 18:16:57.688 15108 [build:146 date:2024-07-30 18:03:35 +0300] x64 libcurl/8.7.1 Schannel zlib/1.3.1 nghttp2/1.60.0
+CPU=AMD_ZEN3,FPU,TSC,CX8,CLFSH,MMX,AES,ERMS,F16C,FMA3,VAES,VPCLMULQDQ,BMI1,BMI2,RDSEED,CLFLUSHOPT,CLWB,SSE,SSE2,SSE3,SSSE3,SSE4_1,SSE4_2,SSE4A,AVX,AVX2,PCLMULQDQ,CX16,SHA,POPCNT,MOVBE,RDRND,ADX,LZCNT,FS_REP_MOV
+  StartCommandLine: C:\Users\Дмитрий\Downloads\win64\bstool.exe D:\bin\ "-src=D:\Мои программы\C#\Penteract\" -token=bc74616301bec701fa300ff530c39d119901214050586486e70063b3c507125c -skipselfupdate
+  CurrentDirectory: D:\bin
+Message: 16.10.2024 18:16:57.690 15108 Free space D:\bin\ 646,37 GB
+Message: 16.10.2024 18:16:57.690 15108 Config: D:\bin\build.ini
+Message: 16.10.2024 18:16:57.988 15108 ServerUrl: http://adm-store.dl.mail.ru/admin.php; GameId: 0.2037116
+Message: 16.10.2024 18:16:58.443 15108 Forced CompressedFiles/non-pure because encryption is applied
+Message: 16.10.2024 18:16:59.204 15108 Login Timestamp=1729077418 QuotaSize=53687091200
+Message: 16.10.2024 18:16:59.204 15108 UserName=430677308@vk
+Message: 16.10.2024 18:16:59.204 15108 Process Distrib-Package trash. TrashDay=20
+Message: 16.10.2024 18:17:07.350 15108 Process Patch-Package trash. PatchTrashDay=160
+Message: 16.10.2024 18:17:15.321 15108 Process packages autoremoving based on quota-size limit (50,00 GB)
+Message: 16.10.2024 18:17:23.456 15108 Apply Package Changes
+Message: 16.10.2024 18:17:31.359 15108 Synchronizing local files from server
+Message: 16.10.2024 18:17:42.605 15108 DownloadFile: packages/shop/0_2037116distrib6/app.7z.001
+Message: 16.10.2024 18:17:42.605 15108 local file restored successfully: D:\bin\0_2037116distrib6\app.7z.001 size=14676978 from=shop/0_2037116distrib6/app.7z.001
+Message: 16.10.2024 18:17:42.792 15108 DownloadFile: packages/shop/0_2037116distrib6/manifest.xml.gz
+Message: 16.10.2024 18:17:42.792 15108 local file restored successfully: D:\bin\0_2037116distrib6\manifest.xml.gz size=5679 from=shop/0_2037116distrib6/manifest.xml.gz
+Message: 16.10.2024 18:17:42.792 15108 Checking local files integrity
+Message: 16.10.2024 18:17:42.792 15108 Step1_Load
+Message: 16.10.2024 18:17:42.792 15108 Will create new build #7
+Message: 16.10.2024 18:17:42.799 15108 Step1_ProcessAllFileNamesList
+Message: 16.10.2024 18:17:42.833 15108 Step1_ProcessDistrib
+Message: 16.10.2024 18:17:42.833 15108 Exec (CurDir=D:\bin) CommandLine=C:\Users\Дмитрий\Downloads\win64\CreateDistrib.exe D:\bin\build.ini 7 "D:\Мои программы\C#\Penteract\" -allfilenameslist=D:\bin\all_file_names_list.txt -skipselfupdate -usecurrentdirastemp
+
+Message: 16.10.2024 18:17:42.840 7532 [build:146 date:2024-07-30 18:03:35 +0300] x64 libcurl/8.7.1 Schannel zlib/1.3.1 nghttp2/1.60.0
+CPU=AMD_ZEN3,FPU,TSC,CX8,CLFSH,MMX,AES,ERMS,F16C,FMA3,VAES,VPCLMULQDQ,BMI1,BMI2,RDSEED,CLFLUSHOPT,CLWB,SSE,SSE2,SSE3,SSSE3,SSE4_1,SSE4_2,SSE4A,AVX,AVX2,PCLMULQDQ,CX16,SHA,POPCNT,MOVBE,RDRND,ADX,LZCNT,FS_REP_MOV
+  StartCommandLine: C:\Users\Дмитрий\Downloads\win64\CreateDistrib.exe D:\bin\build.ini 7 "D:\Мои программы\C#\Penteract\" -allfilenameslist=D:\bin\all_file_names_list.txt -skipselfupdate -usecurrentdirastemp
+  CurrentDirectory: D:\bin
+Message: 16.10.2024 18:17:42.892 7532 WARNING: source file is skipped because it has the debug file extension, D:\Мои программы\C#\Penteract\packages\SharpDX.4.2.0\lib\net40\SharpDX.pdb
+Message: 16.10.2024 18:17:42.894 7532 WARNING: source file is skipped because it has the debug file extension, D:\Мои программы\C#\Penteract\packages\SharpDX.4.2.0\lib\net45\SharpDX.pdb
+Message: 16.10.2024 18:17:42.895 7532 WARNING: source file is skipped because it has the debug file extension, D:\Мои программы\C#\Penteract\packages\SharpDX.4.2.0\lib\netstandard1.1\SharpDX.pdb
+Message: 16.10.2024 18:17:42.896 7532 WARNING: source file is skipped because it has the debug file extension, D:\Мои программы\C#\Penteract\packages\SharpDX.4.2.0\lib\uap10.0\SharpDX.pdb
+Message: 16.10.2024 18:17:42.899 7532 WARNING: source file is skipped because it has the debug file extension, D:\Мои программы\C#\Penteract\packages\SharpDX.Mathematics.4.2.0\lib\net40\SharpDX.Mathematics.pdb
+Message: 16.10.2024 18:17:42.900 7532 WARNING: source file is skipped because it has the debug file extension, D:\Мои программы\C#\Penteract\packages\SharpDX.Mathematics.4.2.0\lib\net45\SharpDX.Mathematics.pdb
+Message: 16.10.2024 18:17:42.901 7532 WARNING: source file is skipped because it has the debug file extension, D:\Мои программы\C#\Penteract\packages\SharpDX.Mathematics.4.2.0\lib\netstandard1.1\SharpDX.Mathematics.pdb
+Message: 16.10.2024 18:17:42.902 7532 WARNING: source file is skipped because it has the debug file extension, D:\Мои программы\C#\Penteract\packages\SharpDX.Mathematics.4.2.0\lib\uap10.0\SharpDX.Mathematics.pdb
+Message: 16.10.2024 18:17:42.908 7532 WARNING: source file is skipped because it has the debug file extension, D:\Мои программы\C#\Penteract\obj\Debug\Penteract.pdb
+Message: 16.10.2024 18:17:44.073 7532 Overall=2
+PrepareTempPaths=0
+PrepareOutputPath=0
+PrepareFilters=0
+PrepareRedists=0
+PrepareRegistry=0
+PrepareIcons=0
+PrepareAppFiles=1
+PrepareRemoveList=0
+Compress "D:\bin\0_2037116distrib7\app.7z" "D:\bin\$$temp$$1\app\"=1
+PrepareDistrib=0
+PrepareManifest=0
+CleanUp=0
+Message: 16.10.2024 18:17:44.074 7532 Finish OK CreateDistrib.exe; Seconds: 2
+Message: 16.10.2024 18:17:44.074 7532 ExitCode=0 OK
+
+Message: 16.10.2024 18:17:44.076 15108 Exec: Result=True ExitCode=0
+Message: 16.10.2024 18:17:44.076 15108 CalcContent D:\bin\0_2037116distrib7
+Message: 16.10.2024 18:17:44.076 15108 CalcContent 2
+Message: 16.10.2024 18:17:44.113 15108 Step1_ProcessDiff
+Message: 16.10.2024 18:17:44.113 15108 Exec (CurDir=D:\bin) CommandLine=C:\Users\Дмитрий\Downloads\win64\CreateDiff.exe 0_2037116distrib6 0_2037116distrib7 D:\bin\build.ini -sectionprefix=diff_ -password=a2ac439b3be477401b9e7c14578b7b6e8cb918782446949e95a2abc80854d8cc -skipselfupdate -usecurrentdirastemp
+
+Message: 16.10.2024 18:17:44.122 7212 [build:146 date:2024-07-30 18:03:35 +0300] x64 libcurl/8.7.1 Schannel zlib/1.3.1 nghttp2/1.60.0
+CPU=AMD_ZEN3,FPU,TSC,CX8,CLFSH,MMX,AES,ERMS,F16C,FMA3,VAES,VPCLMULQDQ,BMI1,BMI2,RDSEED,CLFLUSHOPT,CLWB,SSE,SSE2,SSE3,SSSE3,SSE4_1,SSE4_2,SSE4A,AVX,AVX2,PCLMULQDQ,CX16,SHA,POPCNT,MOVBE,RDRND,ADX,LZCNT,FS_REP_MOV
+  StartCommandLine: C:\Users\Дмитрий\Downloads\win64\CreateDiff.exe 0_2037116distrib6 0_2037116distrib7 D:\bin\build.ini -sectionprefix=diff_ -password=a2ac439b3be477401b9e7c14578b7b6e8cb918782446949e95a2abc80854d8cc -skipselfupdate -usecurrentdirastemp
+  CurrentDirectory: D:\bin
+Message: 16.10.2024 18:17:44.619 7212 Overall=0
+PrepareTempPaths=0
+PrepareOutputPath=0
+PrepareAllFilesChangeLists=0
+PrepareRedistsChangeLists=0
+PrepareRegistryChangeLists=0
+PrepareIconsChangeLists=0
+PrepareFilters=0
+PrepareRedists=0
+PrepareDecompress=0
+Create patches=0
+Compress "D:\bin\0_2037116diff6-7\patch.7z" "D:\bin\$$temp$$1\patch\"=0
+PreparePatchFiles=0
+Compress "D:\bin\0_2037116diff6-7\app.7z" "D:\bin\$$temp$$1\to\;0_2037116distrib7\"=0
+PrepareAddFiles=0
+PrepareManifest=0
+CleanUp=0
+Message: 16.10.2024 18:17:44.620 7212 Finish OK CreateDiff.exe; Seconds: 0
+Message: 16.10.2024 18:17:44.620 7212 ExitCode=0 OK
+
+Message: 16.10.2024 18:17:44.622 15108 Exec: Result=True ExitCode=0
+Message: 16.10.2024 18:17:44.622 15108 CalcContent D:\bin\0_2037116diff6-7
+Message: 16.10.2024 18:17:44.622 15108 CalcContent 3
+Message: 16.10.2024 18:17:44.629 15108 Step1_ProcessSave
+Message: 16.10.2024 18:17:44.802 15108 Login Timestamp=1729077464 QuotaSize=53687091200
+Message: 16.10.2024 18:17:44.802 15108 UserName=430677308@vk
+Message: 16.10.2024 18:17:44.802 15108 Process Sanity check
+Message: 16.10.2024 18:17:44.803 15108 Interaction with the server started
+Message: 16.10.2024 18:17:44.803 15108 Process Distrib-Package trash. TrashDay=20
+Message: 16.10.2024 18:17:52.618 15108 Process Patch-Package trash. PatchTrashDay=160
+Message: 16.10.2024 18:18:00.641 15108 Process packages autoremoving based on quota-size limit (50,00 GB)
+Message: 16.10.2024 18:18:16.413 15108 Apply Package Changes
+Message: 16.10.2024 18:18:24.299 15108 Create "shop/0_2037116diff6-7"
+Message: 16.10.2024 18:18:32.679 15108 Add package: "shop/0_2037116diff6-7"
+Message: 16.10.2024 18:18:32.679 15108 Create "shop/0_2037116distrib7"
+Message: 16.10.2024 18:18:40.701 15108 Add package: "shop/0_2037116distrib7"
+Message: 16.10.2024 18:18:40.702 15108 Process Package Content Changes
+Message: 16.10.2024 18:18:48.982 15108 Reuse complete: "shop/0_2037116distrib7" 0/2
+Message: 16.10.2024 18:18:49.075 15108 StartUpload receives sessionId 4538074
+Message: 16.10.2024 18:19:06.355 15108 FinishPackageUpload
+Message: 16.10.2024 18:19:06.670 15108 Reuse complete: "shop/0_2037116diff6-7" 0/3
+Message: 16.10.2024 18:19:06.763 15108 StartUpload receives sessionId 4538075
+Message: 16.10.2024 18:19:07.758 15108 FinishPackageUpload
+Message: 16.10.2024 18:19:15.613 15108 Publish packages: shop/0_2037116distrib6, shop/0_2037116distrib7, shop/0_2037116diff6-7
+Message: 16.10.2024 18:19:23.721 15108 Publish package: "shop/0_2037116distrib7"
+Message: 16.10.2024 18:19:31.838 15108 Publish package: "shop/0_2037116diff6-7"
+Message: 16.10.2024 18:19:31.838 15108 Process Distrib-Package trash. TrashDay=20
+Message: 16.10.2024 18:19:39.760 15108 Process Patch-Package trash. PatchTrashDay=160
+Message: 16.10.2024 18:19:47.661 15108 Process packages autoremoving based on quota-size limit (50,00 GB)
+Message: 16.10.2024 18:20:03.525 15108 Apply Package Changes
+Message: 16.10.2024 18:20:11.549 15108 Process Lists
+Message: 16.10.2024 18:20:19.451 15108 DownloadFile: torrents/patches/0_2037116_t_head.xml
+Message: 16.10.2024 18:20:19.734 15108 Remove file: "torrents/patches/0_2037116_t0.xml"
+Message: 16.10.2024 18:20:19.829 15108 Remove file: "torrents/patches/0_2037116_t_head.xml"
+Message: 16.10.2024 18:20:19.829 15108 Upload 0_2037116_t0.xml
+Message: 16.10.2024 18:20:19.925 15108 StartUpload receives sessionId 4538076
+Message: 16.10.2024 18:20:20.160 15108 FinishFileUpload
+Message: 16.10.2024 18:20:20.160 15108 Upload 0_2037116_t_head.xml
+Message: 16.10.2024 18:20:20.254 15108 StartUpload receives sessionId 4538077
+Message: 16.10.2024 18:20:20.461 15108 FinishFileUpload
+Message: 16.10.2024 18:20:20.462 15108 Save project.xml
+Message: 16.10.2024 18:20:20.462 15108 Uploading actual project.xml
+Message: 16.10.2024 18:20:21.357 15108 Actual project.xml has been uploaded
+Message: 16.10.2024 18:20:29.175 15108 Interaction with the server finished; Seconds: 165
+Message: 16.10.2024 18:20:29.175 15108 Free space D:\bin\ 646,34 GB
+Message: 16.10.2024 18:20:29.176 15108 gc_id=0.2037116
+Message: 16.10.2024 18:20:29.176 15108 Finish OK bstool.exe; Seconds: 212
+Message: 16.10.2024 18:20:29.176 15108 ExitCode=0 OK
+

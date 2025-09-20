@@ -1,0 +1,619 @@
+
+Message: 15.10.2024 07:55:27.236 1736 [build:146 date:2024-07-30 18:03:35 +0300] x64 libcurl/8.7.1 Schannel zlib/1.3.1 nghttp2/1.60.0
+CPU=AMD_ZEN3,FPU,TSC,CX8,CLFSH,MMX,AES,ERMS,F16C,FMA3,VAES,VPCLMULQDQ,BMI1,BMI2,RDSEED,CLFLUSHOPT,CLWB,SSE,SSE2,SSE3,SSSE3,SSE4_1,SSE4_2,SSE4A,AVX,AVX2,PCLMULQDQ,CX16,SHA,POPCNT,MOVBE,RDRND,ADX,LZCNT,FS_REP_MOV
+  StartCommandLine: C:\Users\Дмитрий\Downloads\win64\bstool.exe "D:\Мои программы\C#\Penteract\bin\Debug\" "-src=D:\Мои программы\C#\Penteract\" -token=40784 -configscheckonly -skipselfupdate -versioninfo=1.0
+  CurrentDirectory: D:\Мои программы\C#\Penteract\bin\Debug
+Message: 15.10.2024 07:55:27.238 1736 Free space D:\Мои программы\C#\Penteract\bin\Debug\ 608,72 GB
+Message: 15.10.2024 07:55:27.239 1736 Free space D:\Мои программы\C#\Penteract\bin\Debug\ 608,72 GB
+Exception: 15.10.2024 07:55:27.239 1736 Invalid commandline params: the folder in parameter "-src=" must not include the builder working folder
+Exception Stack: 15.10.2024 07:55:27.243 1736 Start stack HInstance=00000000000B0000
+Raw:
+(0000000000056D1C) [0000000000107D1C]{bstool.exe          }
+(000000000005805F) [000000000010905F]{bstool.exe          }
+(0000000000058176) [0000000000109176]{bstool.exe          }
+(000000000005821D) [000000000010921D]{bstool.exe          }
+(00000000000583DD) [00000000001093DD]{bstool.exe          }
+(0000000000009063) [00000000000BA063]{bstool.exe          }
+(0000000000009081) [00000000000BA081]{bstool.exe          }
+(00000000000D4DA4) [0000000000185DA4]{bstool.exe          }
+(00000000000A9070) [000000000015A070]{bstool.exe          }
+(00000000000D7DB4) [0000000000188DB4]{bstool.exe          }
+(0000000000016374) [00007FF992877374]{KERNEL32.DLL        }
+(000000000004BC91) [00007FF99419CC91]{ntdll.dll           }
+Finish stack
+Message: 15.10.2024 07:55:27.243 1736 Finish with ERROR bstool.exe; Seconds: 0
+Error: 15.10.2024 07:55:27.243 1736 ExitCode=13
+
+
+Message: 15.10.2024 07:55:54.171 10256 [build:146 date:2024-07-30 18:03:35 +0300] x64 libcurl/8.7.1 Schannel zlib/1.3.1 nghttp2/1.60.0
+CPU=AMD_ZEN3,FPU,TSC,CX8,CLFSH,MMX,AES,ERMS,F16C,FMA3,VAES,VPCLMULQDQ,BMI1,BMI2,RDSEED,CLFLUSHOPT,CLWB,SSE,SSE2,SSE3,SSSE3,SSE4_1,SSE4_2,SSE4A,AVX,AVX2,PCLMULQDQ,CX16,SHA,POPCNT,MOVBE,RDRND,ADX,LZCNT,FS_REP_MOV
+  StartCommandLine: C:\Users\Дмитрий\Downloads\win64\bstool.exe "D:\Мои программы\C#\Penteract\bin\Debug\" "-src=D:\Мои программы\C#\Penteract\" -token=885054d660bb64486e58289d36523a22cbdd56280468a18c94ded2b865ea13e3 -configscheckonly -skipselfupdate -versioninfo=1.0
+  CurrentDirectory: D:\Мои программы\C#\Penteract\bin\Debug
+Message: 15.10.2024 07:55:54.172 10256 Free space D:\Мои программы\C#\Penteract\bin\Debug\ 608,72 GB
+Message: 15.10.2024 07:55:54.173 10256 Free space D:\Мои программы\C#\Penteract\bin\Debug\ 608,72 GB
+Exception: 15.10.2024 07:55:54.173 10256 Invalid commandline params: the folder in parameter "-src=" must not include the builder working folder
+Exception Stack: 15.10.2024 07:55:54.177 10256 Start stack HInstance=00000000000B0000
+Raw:
+(0000000000056D1C) [0000000000107D1C]{bstool.exe          }
+(000000000005805F) [000000000010905F]{bstool.exe          }
+(0000000000058176) [0000000000109176]{bstool.exe          }
+(000000000005821D) [000000000010921D]{bstool.exe          }
+(00000000000583DD) [00000000001093DD]{bstool.exe          }
+(0000000000009063) [00000000000BA063]{bstool.exe          }
+(0000000000009081) [00000000000BA081]{bstool.exe          }
+(00000000000D4DA4) [0000000000185DA4]{bstool.exe          }
+(00000000000A9070) [000000000015A070]{bstool.exe          }
+(00000000000D7DB4) [0000000000188DB4]{bstool.exe          }
+(0000000000016374) [00007FF992877374]{KERNEL32.DLL        }
+(000000000004BC91) [00007FF99419CC91]{ntdll.dll           }
+Finish stack
+Message: 15.10.2024 07:55:54.177 10256 Finish with ERROR bstool.exe; Seconds: 0
+Error: 15.10.2024 07:55:54.177 10256 ExitCode=13
+
+
+Message: 15.10.2024 07:56:03.716 8704 [build:146 date:2024-07-30 18:03:35 +0300] x64 libcurl/8.7.1 Schannel zlib/1.3.1 nghttp2/1.60.0
+CPU=AMD_ZEN3,FPU,TSC,CX8,CLFSH,MMX,AES,ERMS,F16C,FMA3,VAES,VPCLMULQDQ,BMI1,BMI2,RDSEED,CLFLUSHOPT,CLWB,SSE,SSE2,SSE3,SSSE3,SSE4_1,SSE4_2,SSE4A,AVX,AVX2,PCLMULQDQ,CX16,SHA,POPCNT,MOVBE,RDRND,ADX,LZCNT,FS_REP_MOV
+  StartCommandLine: C:\Users\Дмитрий\Downloads\win64\bstool.exe "D:\Мои программы\C#\Penteract\bin\Debug\" "-src=D:\Мои программы\C#\Penteract\" -token=885054d660bb64486e58289d36523a22cbdd56280468a18c94ded2b865ea13e3 -configscheckonly -skipselfupdate -versioninfo=1.0
+  CurrentDirectory: D:\Мои программы\C#\Penteract\bin\Debug
+Message: 15.10.2024 07:56:03.717 8704 Free space D:\Мои программы\C#\Penteract\bin\Debug\ 608,72 GB
+Message: 15.10.2024 07:56:03.718 8704 Free space D:\Мои программы\C#\Penteract\bin\Debug\ 608,72 GB
+Exception: 15.10.2024 07:56:03.718 8704 Invalid commandline params: the folder in parameter "-src=" must not include the builder working folder
+Exception Stack: 15.10.2024 07:56:03.721 8704 Start stack HInstance=00000000000B0000
+Raw:
+(0000000000056D1C) [0000000000107D1C]{bstool.exe          }
+(000000000005805F) [000000000010905F]{bstool.exe          }
+(0000000000058176) [0000000000109176]{bstool.exe          }
+(000000000005821D) [000000000010921D]{bstool.exe          }
+(00000000000583DD) [00000000001093DD]{bstool.exe          }
+(0000000000009063) [00000000000BA063]{bstool.exe          }
+(0000000000009081) [00000000000BA081]{bstool.exe          }
+(00000000000D4DA4) [0000000000185DA4]{bstool.exe          }
+(00000000000A9070) [000000000015A070]{bstool.exe          }
+(00000000000D7DB4) [0000000000188DB4]{bstool.exe          }
+(0000000000016374) [00007FF992877374]{KERNEL32.DLL        }
+(000000000004BC91) [00007FF99419CC91]{ntdll.dll           }
+Finish stack
+Exception: 15.10.2024 07:56:03.721 8704 SaveStringToFile Unable to create file lasterror.txt
+Exception Stack: 15.10.2024 07:56:03.722 8704 Start stack HInstance=00000000000B0000
+Raw:
+(0000000000056D1C) [0000000000107D1C]{bstool.exe          }
+(000000000005805F) [000000000010905F]{bstool.exe          }
+(0000000000058176) [0000000000109176]{bstool.exe          }
+(000000000005821D) [000000000010921D]{bstool.exe          }
+(00000000000583DD) [00000000001093DD]{bstool.exe          }
+(0000000000009063) [00000000000BA063]{bstool.exe          }
+(0000000000009081) [00000000000BA081]{bstool.exe          }
+(000000000004C915) [00000000000FD915]{bstool.exe          }
+(00000000000A8950) [0000000000159950]{bstool.exe          }
+(00000000000A9139) [000000000015A139]{bstool.exe          }
+(00000000000D7DB4) [0000000000188DB4]{bstool.exe          }
+(0000000000016374) [00007FF992877374]{KERNEL32.DLL        }
+(000000000004BC91) [00007FF99419CC91]{ntdll.dll           }
+Finish stack
+Message: 15.10.2024 07:56:03.722 8704 Finish with ERROR bstool.exe; Seconds: 0
+Error: 15.10.2024 07:56:03.722 8704 ExitCode=13
+
+
+Message: 15.10.2024 07:56:12.109 3168 [build:146 date:2024-07-30 18:03:35 +0300] x64 libcurl/8.7.1 Schannel zlib/1.3.1 nghttp2/1.60.0
+CPU=AMD_ZEN3,FPU,TSC,CX8,CLFSH,MMX,AES,ERMS,F16C,FMA3,VAES,VPCLMULQDQ,BMI1,BMI2,RDSEED,CLFLUSHOPT,CLWB,SSE,SSE2,SSE3,SSSE3,SSE4_1,SSE4_2,SSE4A,AVX,AVX2,PCLMULQDQ,CX16,SHA,POPCNT,MOVBE,RDRND,ADX,LZCNT,FS_REP_MOV
+  StartCommandLine: C:\Users\Дмитрий\Downloads\win64\bstool.exe "D:\Мои программы\C#\Penteract\bin\Debug\" "-src=D:\Мои программы\C#\Penteract\" -token=bc74616301bec701fa300ff530c39d119901214050586486e70063b3c507125c -configscheckonly -skipselfupdate -versioninfo=1.0
+  CurrentDirectory: D:\Мои программы\C#\Penteract\bin\Debug
+Message: 15.10.2024 07:56:12.111 3168 Free space D:\Мои программы\C#\Penteract\bin\Debug\ 608,72 GB
+Message: 15.10.2024 07:56:12.111 3168 Free space D:\Мои программы\C#\Penteract\bin\Debug\ 608,72 GB
+Exception: 15.10.2024 07:56:12.111 3168 Invalid commandline params: the folder in parameter "-src=" must not include the builder working folder
+Exception Stack: 15.10.2024 07:56:12.115 3168 Start stack HInstance=00000000000B0000
+Raw:
+(0000000000056D1C) [0000000000107D1C]{bstool.exe          }
+(000000000005805F) [000000000010905F]{bstool.exe          }
+(0000000000058176) [0000000000109176]{bstool.exe          }
+(000000000005821D) [000000000010921D]{bstool.exe          }
+(00000000000583DD) [00000000001093DD]{bstool.exe          }
+(0000000000009063) [00000000000BA063]{bstool.exe          }
+(0000000000009081) [00000000000BA081]{bstool.exe          }
+(00000000000D4DA4) [0000000000185DA4]{bstool.exe          }
+(00000000000A9070) [000000000015A070]{bstool.exe          }
+(00000000000D7DB4) [0000000000188DB4]{bstool.exe          }
+(0000000000016374) [00007FF992877374]{KERNEL32.DLL        }
+(000000000004BC91) [00007FF99419CC91]{ntdll.dll           }
+Finish stack
+Message: 15.10.2024 07:56:12.115 3168 Finish with ERROR bstool.exe; Seconds: 0
+Error: 15.10.2024 07:56:12.115 3168 ExitCode=13
+
+
+Message: 15.10.2024 07:56:29.468 12652 [build:146 date:2024-07-30 18:03:35 +0300] x64 libcurl/8.7.1 Schannel zlib/1.3.1 nghttp2/1.60.0
+CPU=AMD_ZEN3,FPU,TSC,CX8,CLFSH,MMX,AES,ERMS,F16C,FMA3,VAES,VPCLMULQDQ,BMI1,BMI2,RDSEED,CLFLUSHOPT,CLWB,SSE,SSE2,SSE3,SSSE3,SSE4_1,SSE4_2,SSE4A,AVX,AVX2,PCLMULQDQ,CX16,SHA,POPCNT,MOVBE,RDRND,ADX,LZCNT,FS_REP_MOV
+  StartCommandLine: C:\Users\Дмитрий\Downloads\win64\bstool.exe "D:\Мои программы\C#\Penteract\bin\Debug\" "-src=D:\Мои программы\C#\Penteract\" -token=bc74616301bec701fa300ff530c39d119901214050586486e70063b3c507125c -configscheckonly -skipselfupdate -versioninfo=1.0
+  CurrentDirectory: D:\Мои программы\C#\Penteract\bin\Debug
+Message: 15.10.2024 07:56:29.470 12652 Free space D:\Мои программы\C#\Penteract\bin\Debug\ 608,72 GB
+Message: 15.10.2024 07:56:29.470 12652 Free space D:\Мои программы\C#\Penteract\bin\Debug\ 608,72 GB
+Exception: 15.10.2024 07:56:29.470 12652 Invalid commandline params: the folder in parameter "-src=" must not include the builder working folder
+Exception Stack: 15.10.2024 07:56:29.474 12652 Start stack HInstance=00000000000B0000
+Raw:
+(0000000000056D1C) [0000000000107D1C]{bstool.exe          }
+(000000000005805F) [000000000010905F]{bstool.exe          }
+(0000000000058176) [0000000000109176]{bstool.exe          }
+(000000000005821D) [000000000010921D]{bstool.exe          }
+(00000000000583DD) [00000000001093DD]{bstool.exe          }
+(0000000000009063) [00000000000BA063]{bstool.exe          }
+(0000000000009081) [00000000000BA081]{bstool.exe          }
+(00000000000D4DA4) [0000000000185DA4]{bstool.exe          }
+(00000000000A9070) [000000000015A070]{bstool.exe          }
+(00000000000D7DB4) [0000000000188DB4]{bstool.exe          }
+(0000000000016374) [00007FF992877374]{KERNEL32.DLL        }
+(000000000004BC91) [00007FF99419CC91]{ntdll.dll           }
+Finish stack
+Message: 15.10.2024 07:56:29.474 12652 Finish with ERROR bstool.exe; Seconds: 0
+Error: 15.10.2024 07:56:29.474 12652 ExitCode=13
+
+
+Message: 15.10.2024 07:57:24.659 5928 [build:146 date:2024-07-30 18:03:35 +0300] x64 libcurl/8.7.1 Schannel zlib/1.3.1 nghttp2/1.60.0
+CPU=AMD_ZEN3,FPU,TSC,CX8,CLFSH,MMX,AES,ERMS,F16C,FMA3,VAES,VPCLMULQDQ,BMI1,BMI2,RDSEED,CLFLUSHOPT,CLWB,SSE,SSE2,SSE3,SSSE3,SSE4_1,SSE4_2,SSE4A,AVX,AVX2,PCLMULQDQ,CX16,SHA,POPCNT,MOVBE,RDRND,ADX,LZCNT,FS_REP_MOV
+  StartCommandLine: C:\Users\Дмитрий\Downloads\win64\bstool.exe "D:\Мои программы\C#\bin\Debug\" "-src=D:\Мои программы\C#\Penteract\" -token=bc74616301bec701fa300ff530c39d119901214050586486e70063b3c507125c -configscheckonly -skipselfupdate -versioninfo=1.0
+  CurrentDirectory: D:\Мои программы\C#\bin\Debug
+Message: 15.10.2024 07:57:24.661 5928 Free space D:\Мои программы\C#\bin\Debug\ 608,72 GB
+Message: 15.10.2024 07:57:24.661 5928 Config (does not exist yet): D:\Мои программы\C#\bin\Debug\build.ini
+Message: 15.10.2024 07:57:25.148 5928 Config: D:\Мои программы\C#\bin\Debug\build.ini
+Message: 15.10.2024 07:57:25.148 5928 ServerUrl: http://adm-store.dl.mail.ru/admin.php; GameId: 0.2037116
+Message: 15.10.2024 07:57:25.781 5928 [Warning] New empty project.xml is created.
+Message: 15.10.2024 07:57:25.781 5928 Free space D:\Мои программы\C#\bin\Debug\ 608,72 GB
+Message: 15.10.2024 07:57:25.781 5928 gc_id=0.2037116
+Message: 15.10.2024 07:57:25.781 5928 Finish OK bstool.exe; Seconds: 1
+Message: 15.10.2024 07:57:25.782 5928 ExitCode=0 OK
+
+
+Message: 15.10.2024 07:57:28.052 11400 [build:146 date:2024-07-30 18:03:35 +0300] x64 libcurl/8.7.1 Schannel zlib/1.3.1 nghttp2/1.60.0
+CPU=AMD_ZEN3,FPU,TSC,CX8,CLFSH,MMX,AES,ERMS,F16C,FMA3,VAES,VPCLMULQDQ,BMI1,BMI2,RDSEED,CLFLUSHOPT,CLWB,SSE,SSE2,SSE3,SSSE3,SSE4_1,SSE4_2,SSE4A,AVX,AVX2,PCLMULQDQ,CX16,SHA,POPCNT,MOVBE,RDRND,ADX,LZCNT,FS_REP_MOV
+  StartCommandLine: C:\Users\Дмитрий\Downloads\win64\bstool.exe "D:\Мои программы\C#\bin\Debug\" "-src=D:\Мои программы\C#\Penteract\" -token=bc74616301bec701fa300ff530c39d119901214050586486e70063b3c507125c -skipselfupdate -versioninfo=1.0
+  CurrentDirectory: D:\Мои программы\C#\bin\Debug
+Message: 15.10.2024 07:57:28.054 11400 Free space D:\Мои программы\C#\bin\Debug\ 608,72 GB
+Message: 15.10.2024 07:57:28.054 11400 Config: D:\Мои программы\C#\bin\Debug\build.ini
+Message: 15.10.2024 07:57:28.339 11400 ServerUrl: http://adm-store.dl.mail.ru/admin.php; GameId: 0.2037116
+Message: 15.10.2024 07:57:28.728 11400 [Warning] New empty project.xml is created.
+Message: 15.10.2024 07:57:28.731 11400 Forced CompressedFiles/non-pure because encryption is applied
+Message: 15.10.2024 07:57:29.492 11400 Login Timestamp=1728953848 QuotaSize=53687091200
+Message: 15.10.2024 07:57:29.492 11400 UserName=430677308@vk
+Message: 15.10.2024 07:57:29.492 11400 Process Distrib-Package trash. TrashDay=20
+Message: 15.10.2024 07:57:37.476 11400 Process Patch-Package trash. PatchTrashDay=160
+Message: 15.10.2024 07:57:45.457 11400 Process packages autoremoving based on quota-size limit (50,00 GB)
+Message: 15.10.2024 07:57:53.317 11400 Apply Package Changes
+Message: 15.10.2024 07:58:01.286 11400 Synchronizing local files from server
+Message: 15.10.2024 07:58:01.286 11400 Checking local files integrity
+Message: 15.10.2024 07:58:01.287 11400 Step1_Load
+Message: 15.10.2024 07:58:01.287 11400 Will create new build #3
+Message: 15.10.2024 07:58:01.291 11400 Step1_ProcessAllFileNamesList
+Message: 15.10.2024 07:58:01.291 11400 Step1_ProcessDistrib
+Message: 15.10.2024 07:58:01.292 11400 Free space D:\Мои программы\C#\bin\Debug\ 608,72 GB
+Exception: 15.10.2024 07:58:01.292 11400 Main client Exe(64bit) file does not exist in the source folder: D:\Мои программы\C#\Penteract\Penteract.exe
+Exception Stack: 15.10.2024 07:58:01.296 11400 Start stack HInstance=00000000000B0000
+Raw:
+(0000000000056D1C) [0000000000107D1C]{bstool.exe          }
+(000000000005805F) [000000000010905F]{bstool.exe          }
+(0000000000058176) [0000000000109176]{bstool.exe          }
+(000000000005821D) [000000000010921D]{bstool.exe          }
+(00000000000583DD) [00000000001093DD]{bstool.exe          }
+(0000000000009063) [00000000000BA063]{bstool.exe          }
+(0000000000009081) [00000000000BA081]{bstool.exe          }
+(00000000000A8204) [0000000000159204]{bstool.exe          }
+(00000000000BEA19) [000000000016FA19]{bstool.exe          }
+(00000000000BEC02) [000000000016FC02]{bstool.exe          }
+(00000000000D0774) [0000000000181774]{bstool.exe          }
+(00000000000D1C98) [0000000000182C98]{bstool.exe          }
+(00000000000A909A) [000000000015A09A]{bstool.exe          }
+(00000000000D7DB4) [0000000000188DB4]{bstool.exe          }
+(0000000000016374) [00007FF992877374]{KERNEL32.DLL        }
+(000000000004BC91) [00007FF99419CC91]{ntdll.dll           }
+Finish stack
+Message: 15.10.2024 07:58:01.296 11400 gc_id=0.2037116
+Message: 15.10.2024 07:58:01.296 11400 Finish with ERROR bstool.exe; Seconds: 33
+Error: 15.10.2024 07:58:01.296 11400 ExitCode=13
+
+
+Message: 15.10.2024 07:58:50.164 4084 [build:146 date:2024-07-30 18:03:35 +0300] x64 libcurl/8.7.1 Schannel zlib/1.3.1 nghttp2/1.60.0
+CPU=AMD_ZEN3,FPU,TSC,CX8,CLFSH,MMX,AES,ERMS,F16C,FMA3,VAES,VPCLMULQDQ,BMI1,BMI2,RDSEED,CLFLUSHOPT,CLWB,SSE,SSE2,SSE3,SSSE3,SSE4_1,SSE4_2,SSE4A,AVX,AVX2,PCLMULQDQ,CX16,SHA,POPCNT,MOVBE,RDRND,ADX,LZCNT,FS_REP_MOV
+  StartCommandLine: C:\Users\Дмитрий\Downloads\win64\bstool.exe "D:\Мои программы\C#\bin\Debug\" "-src=D:\Мои программы\C#\Penteract\" -token=bc74616301bec701fa300ff530c39d119901214050586486e70063b3c507125c -skipselfupdate -versioninfo=1.0
+  CurrentDirectory: D:\Мои программы\C#\bin\Debug
+Message: 15.10.2024 07:58:50.166 4084 Free space D:\Мои программы\C#\bin\Debug\ 608,72 GB
+Message: 15.10.2024 07:58:50.166 4084 Config: D:\Мои программы\C#\bin\Debug\build.ini
+Message: 15.10.2024 07:58:50.438 4084 ServerUrl: http://adm-store.dl.mail.ru/admin.php; GameId: 0.2037116
+Message: 15.10.2024 07:58:50.857 4084 [Warning] New empty project.xml is created.
+Message: 15.10.2024 07:58:50.860 4084 Forced CompressedFiles/non-pure because encryption is applied
+Message: 15.10.2024 07:58:51.092 4084 Login Timestamp=1728953930 QuotaSize=53687091200
+Message: 15.10.2024 07:58:51.092 4084 UserName=430677308@vk
+Message: 15.10.2024 07:58:51.092 4084 Process Distrib-Package trash. TrashDay=20
+Message: 15.10.2024 07:58:59.088 4084 Process Patch-Package trash. PatchTrashDay=160
+Message: 15.10.2024 07:59:07.303 4084 Process packages autoremoving based on quota-size limit (50,00 GB)
+Message: 15.10.2024 07:59:15.121 4084 Apply Package Changes
+Message: 15.10.2024 07:59:22.959 4084 Synchronizing local files from server
+Message: 15.10.2024 07:59:22.959 4084 Checking local files integrity
+Message: 15.10.2024 07:59:22.959 4084 Step1_Load
+Message: 15.10.2024 07:59:22.959 4084 Will create new build #3
+Message: 15.10.2024 07:59:22.963 4084 Step1_ProcessAllFileNamesList
+Message: 15.10.2024 07:59:22.963 4084 Step1_ProcessDistrib
+Message: 15.10.2024 07:59:22.964 4084 Exec (CurDir=D:\Мои программы\C#\bin\Debug) CommandLine=C:\Users\Дмитрий\Downloads\win64\CreateDistrib.exe "D:\Мои программы\C#\bin\Debug\build.ini" 3 "D:\Мои программы\C#\Penteract\" "-allfilenameslist=D:\Мои программы\C#\bin\Debug\all_file_names_list.txt" -skipselfupdate -usecurrentdirastemp
+
+Message: 15.10.2024 07:59:22.972 9568 [build:146 date:2024-07-30 18:03:35 +0300] x64 libcurl/8.7.1 Schannel zlib/1.3.1 nghttp2/1.60.0
+CPU=AMD_ZEN3,FPU,TSC,CX8,CLFSH,MMX,AES,ERMS,F16C,FMA3,VAES,VPCLMULQDQ,BMI1,BMI2,RDSEED,CLFLUSHOPT,CLWB,SSE,SSE2,SSE3,SSSE3,SSE4_1,SSE4_2,SSE4A,AVX,AVX2,PCLMULQDQ,CX16,SHA,POPCNT,MOVBE,RDRND,ADX,LZCNT,FS_REP_MOV
+  StartCommandLine: C:\Users\Дмитрий\Downloads\win64\CreateDistrib.exe "D:\Мои программы\C#\bin\Debug\build.ini" 3 "D:\Мои программы\C#\Penteract\" "-allfilenameslist=D:\Мои программы\C#\bin\Debug\all_file_names_list.txt" -skipselfupdate -usecurrentdirastemp
+  CurrentDirectory: D:\Мои программы\C#\bin\Debug
+Message: 15.10.2024 07:59:23.012 9568 WARNING: source file is skipped because it has the debug file extension, D:\Мои программы\C#\Penteract\packages\SharpDX.4.2.0\lib\net40\SharpDX.pdb
+Message: 15.10.2024 07:59:23.014 9568 WARNING: source file is skipped because it has the debug file extension, D:\Мои программы\C#\Penteract\packages\SharpDX.4.2.0\lib\net45\SharpDX.pdb
+Message: 15.10.2024 07:59:23.015 9568 WARNING: source file is skipped because it has the debug file extension, D:\Мои программы\C#\Penteract\packages\SharpDX.4.2.0\lib\netstandard1.1\SharpDX.pdb
+Message: 15.10.2024 07:59:23.016 9568 WARNING: source file is skipped because it has the debug file extension, D:\Мои программы\C#\Penteract\packages\SharpDX.4.2.0\lib\uap10.0\SharpDX.pdb
+Message: 15.10.2024 07:59:23.018 9568 WARNING: source file is skipped because it has the debug file extension, D:\Мои программы\C#\Penteract\packages\SharpDX.Mathematics.4.2.0\lib\net40\SharpDX.Mathematics.pdb
+Message: 15.10.2024 07:59:23.020 9568 WARNING: source file is skipped because it has the debug file extension, D:\Мои программы\C#\Penteract\packages\SharpDX.Mathematics.4.2.0\lib\net45\SharpDX.Mathematics.pdb
+Message: 15.10.2024 07:59:23.021 9568 WARNING: source file is skipped because it has the debug file extension, D:\Мои программы\C#\Penteract\packages\SharpDX.Mathematics.4.2.0\lib\netstandard1.1\SharpDX.Mathematics.pdb
+Message: 15.10.2024 07:59:23.022 9568 WARNING: source file is skipped because it has the debug file extension, D:\Мои программы\C#\Penteract\packages\SharpDX.Mathematics.4.2.0\lib\uap10.0\SharpDX.Mathematics.pdb
+Message: 15.10.2024 07:59:23.027 9568 WARNING: source file is skipped because it has the debug file extension, D:\Мои программы\C#\Penteract\obj\Debug\Penteract.pdb
+Message: 15.10.2024 07:59:24.473 9568 Overall=2
+PrepareTempPaths=0
+PrepareOutputPath=0
+PrepareFilters=0
+PrepareRedists=0
+PrepareRegistry=0
+PrepareIcons=0
+PrepareAppFiles=1
+PrepareRemoveList=0
+Compress "D:\Мои программы\C#\bin\Debug\0_2037116distrib3\app.7z" "D:\Мои программы\C#\bin\Debug\$$temp$$1\app\"=1
+PrepareDistrib=0
+PrepareManifest=0
+CleanUp=0
+Message: 15.10.2024 07:59:24.474 9568 Finish OK CreateDistrib.exe; Seconds: 2
+Message: 15.10.2024 07:59:24.475 9568 ExitCode=0 OK
+
+Message: 15.10.2024 07:59:24.476 4084 Exec: Result=True ExitCode=0
+Message: 15.10.2024 07:59:24.477 4084 CalcContent D:\Мои программы\C#\bin\Debug\0_2037116distrib3
+Message: 15.10.2024 07:59:24.477 4084 CalcContent 2
+Message: 15.10.2024 07:59:24.541 4084 Step1_ProcessDiff
+Message: 15.10.2024 07:59:24.541 4084 Step1_ProcessSave
+Message: 15.10.2024 07:59:24.722 4084 Login Timestamp=1728953964 QuotaSize=53687091200
+Message: 15.10.2024 07:59:24.722 4084 UserName=430677308@vk
+Message: 15.10.2024 07:59:24.722 4084 Process Sanity check
+Message: 15.10.2024 07:59:24.723 4084 Interaction with the server started
+Message: 15.10.2024 07:59:24.723 4084 Process Distrib-Package trash. TrashDay=20
+Message: 15.10.2024 07:59:32.727 4084 Process Patch-Package trash. PatchTrashDay=160
+Message: 15.10.2024 07:59:40.760 4084 Process packages autoremoving based on quota-size limit (50,00 GB)
+Message: 15.10.2024 07:59:56.412 4084 Apply Package Changes
+Message: 15.10.2024 08:00:04.323 4084 Create "shop/0_2037116distrib3"
+Message: 15.10.2024 08:00:12.775 4084 Add package: "shop/0_2037116distrib3"
+Message: 15.10.2024 08:00:12.775 4084 Process Package Content Changes
+Message: 15.10.2024 08:00:20.947 4084 Reuse complete: "shop/0_2037116distrib3" 0/2
+Message: 15.10.2024 08:00:21.193 4084 StartUpload receives sessionId 4536552
+Message: 15.10.2024 08:00:24.590 4084 FinishPackageUpload
+Message: 15.10.2024 08:00:32.660 4084 Publish packages: shop/0_2037116distrib3
+Message: 15.10.2024 08:00:41.569 4084 Publish package: "shop/0_2037116distrib3"
+Message: 15.10.2024 08:00:41.569 4084 Process Distrib-Package trash. TrashDay=20
+Message: 15.10.2024 08:00:49.626 4084 Process Patch-Package trash. PatchTrashDay=160
+Message: 15.10.2024 08:00:57.872 4084 Process packages autoremoving based on quota-size limit (50,00 GB)
+Message: 15.10.2024 08:01:13.670 4084 Apply Package Changes
+Message: 15.10.2024 08:01:21.600 4084 Process Lists
+Error: 15.10.2024 08:01:29.518 4084 TTransport Get failed. Info ResponseCode=404 url=http://adm-store.dl.mail.ru/admin.php?mode=download&login_session=81da7e2282133938726783c907c14315584990968bdb986846fcd25ef4f74b8b&name=torrents%2Fpatches%2F0_2037116_t_head.xml
+Message: 15.10.2024 08:01:29.705 4084 Upload 0_20371160.xml
+Message: 15.10.2024 08:01:29.798 4084 StartUpload receives sessionId 4536553
+Message: 15.10.2024 08:01:29.969 4084 FinishFileUpload
+Message: 15.10.2024 08:01:29.969 4084 Upload 0_2037116_head.xml
+Message: 15.10.2024 08:01:30.062 4084 StartUpload receives sessionId 4536554
+Message: 15.10.2024 08:01:30.236 4084 FinishFileUpload
+Message: 15.10.2024 08:01:30.236 4084 Upload 0_2037116_t0.xml
+Message: 15.10.2024 08:01:30.329 4084 StartUpload receives sessionId 4536555
+Message: 15.10.2024 08:01:30.498 4084 FinishFileUpload
+Message: 15.10.2024 08:01:30.499 4084 Upload 0_2037116_t_head.xml
+Message: 15.10.2024 08:01:30.592 4084 StartUpload receives sessionId 4536556
+Message: 15.10.2024 08:01:30.766 4084 FinishFileUpload
+Message: 15.10.2024 08:01:30.766 4084 Save project.xml
+Message: 15.10.2024 08:01:30.767 4084 Uploading actual project.xml
+Message: 15.10.2024 08:01:31.702 4084 Actual project.xml has been uploaded
+Message: 15.10.2024 08:01:39.680 4084 Interaction with the server finished; Seconds: 135
+Message: 15.10.2024 08:01:39.680 4084 Free space D:\Мои программы\C#\bin\Debug\ 608,71 GB
+Message: 15.10.2024 08:01:39.681 4084 gc_id=0.2037116
+Message: 15.10.2024 08:01:39.681 4084 Finish OK bstool.exe; Seconds: 169
+Message: 15.10.2024 08:01:39.681 4084 ExitCode=0 OK
+
+
+Message: 15.10.2024 08:01:51.035 11916 [build:146 date:2024-07-30 18:03:35 +0300] x64 libcurl/8.7.1 Schannel zlib/1.3.1 nghttp2/1.60.0
+CPU=AMD_ZEN3,FPU,TSC,CX8,CLFSH,MMX,AES,ERMS,F16C,FMA3,VAES,VPCLMULQDQ,BMI1,BMI2,RDSEED,CLFLUSHOPT,CLWB,SSE,SSE2,SSE3,SSSE3,SSE4_1,SSE4_2,SSE4A,AVX,AVX2,PCLMULQDQ,CX16,SHA,POPCNT,MOVBE,RDRND,ADX,LZCNT,FS_REP_MOV
+  StartCommandLine: C:\Users\Дмитрий\Downloads\win64\bstool.exe "D:\Мои программы\C#\bin\Debug\" "-src=D:\Мои программы\C#\Penteract\" -token=bc74616301bec701fa300ff530c39d119901214050586486e70063b3c507125c -skipselfupdate -versioninfo=1.0
+  CurrentDirectory: D:\Мои программы\C#\bin\Debug
+Message: 15.10.2024 08:01:51.037 11916 Free space D:\Мои программы\C#\bin\Debug\ 608,71 GB
+Message: 15.10.2024 08:01:51.037 11916 Config: D:\Мои программы\C#\bin\Debug\build.ini
+Message: 15.10.2024 08:01:51.337 11916 ServerUrl: http://adm-store.dl.mail.ru/admin.php; GameId: 0.2037116
+Message: 15.10.2024 08:01:51.755 11916 Forced CompressedFiles/non-pure because encryption is applied
+Message: 15.10.2024 08:01:52.029 11916 Login Timestamp=1728954111 QuotaSize=53687091200
+Message: 15.10.2024 08:01:52.029 11916 UserName=430677308@vk
+Message: 15.10.2024 08:01:52.030 11916 Auto delete the existing last build been in the test line, #3
+Message: 15.10.2024 08:01:52.030 11916 Trash package 0_2037116distrib3
+Message: 15.10.2024 08:01:52.031 11916 Process Distrib-Package trash. TrashDay=20
+Message: 15.10.2024 08:02:00.230 11916 Process Patch-Package trash. PatchTrashDay=160
+Message: 15.10.2024 08:02:08.300 11916 Process packages autoremoving based on quota-size limit (50,00 GB)
+Message: 15.10.2024 08:02:16.153 11916 Apply Package Changes
+Message: 15.10.2024 08:02:24.074 11916 Save project.xml
+Message: 15.10.2024 08:02:24.074 11916 Uploading actual project.xml
+Message: 15.10.2024 08:02:24.773 11916 Actual project.xml has been uploaded
+Message: 15.10.2024 08:02:24.773 11916 Synchronizing local files from server
+Message: 15.10.2024 08:02:24.773 11916 Checking local files integrity
+Message: 15.10.2024 08:02:24.773 11916 Step1_Load
+Message: 15.10.2024 08:02:24.773 11916 Will create new build #4
+Message: 15.10.2024 08:02:24.778 11916 Step1_ProcessAllFileNamesList
+Message: 15.10.2024 08:02:24.778 11916 Step1_ProcessDistrib
+Message: 15.10.2024 08:02:24.778 11916 Exec (CurDir=D:\Мои программы\C#\bin\Debug) CommandLine=C:\Users\Дмитрий\Downloads\win64\CreateDistrib.exe "D:\Мои программы\C#\bin\Debug\build.ini" 4 "D:\Мои программы\C#\Penteract\" "-allfilenameslist=D:\Мои программы\C#\bin\Debug\all_file_names_list.txt" -skipselfupdate -usecurrentdirastemp
+
+Message: 15.10.2024 08:02:24.785 13276 [build:146 date:2024-07-30 18:03:35 +0300] x64 libcurl/8.7.1 Schannel zlib/1.3.1 nghttp2/1.60.0
+CPU=AMD_ZEN3,FPU,TSC,CX8,CLFSH,MMX,AES,ERMS,F16C,FMA3,VAES,VPCLMULQDQ,BMI1,BMI2,RDSEED,CLFLUSHOPT,CLWB,SSE,SSE2,SSE3,SSSE3,SSE4_1,SSE4_2,SSE4A,AVX,AVX2,PCLMULQDQ,CX16,SHA,POPCNT,MOVBE,RDRND,ADX,LZCNT,FS_REP_MOV
+  StartCommandLine: C:\Users\Дмитрий\Downloads\win64\CreateDistrib.exe "D:\Мои программы\C#\bin\Debug\build.ini" 4 "D:\Мои программы\C#\Penteract\" "-allfilenameslist=D:\Мои программы\C#\bin\Debug\all_file_names_list.txt" -skipselfupdate -usecurrentdirastemp
+  CurrentDirectory: D:\Мои программы\C#\bin\Debug
+Message: 15.10.2024 08:02:24.823 13276 WARNING: source file is skipped because it has the debug file extension, D:\Мои программы\C#\Penteract\packages\SharpDX.4.2.0\lib\net40\SharpDX.pdb
+Message: 15.10.2024 08:02:24.826 13276 WARNING: source file is skipped because it has the debug file extension, D:\Мои программы\C#\Penteract\packages\SharpDX.4.2.0\lib\net45\SharpDX.pdb
+Message: 15.10.2024 08:02:24.827 13276 WARNING: source file is skipped because it has the debug file extension, D:\Мои программы\C#\Penteract\packages\SharpDX.4.2.0\lib\netstandard1.1\SharpDX.pdb
+Message: 15.10.2024 08:02:24.828 13276 WARNING: source file is skipped because it has the debug file extension, D:\Мои программы\C#\Penteract\packages\SharpDX.4.2.0\lib\uap10.0\SharpDX.pdb
+Message: 15.10.2024 08:02:24.831 13276 WARNING: source file is skipped because it has the debug file extension, D:\Мои программы\C#\Penteract\packages\SharpDX.Mathematics.4.2.0\lib\net40\SharpDX.Mathematics.pdb
+Message: 15.10.2024 08:02:24.832 13276 WARNING: source file is skipped because it has the debug file extension, D:\Мои программы\C#\Penteract\packages\SharpDX.Mathematics.4.2.0\lib\net45\SharpDX.Mathematics.pdb
+Message: 15.10.2024 08:02:24.833 13276 WARNING: source file is skipped because it has the debug file extension, D:\Мои программы\C#\Penteract\packages\SharpDX.Mathematics.4.2.0\lib\netstandard1.1\SharpDX.Mathematics.pdb
+Message: 15.10.2024 08:02:24.834 13276 WARNING: source file is skipped because it has the debug file extension, D:\Мои программы\C#\Penteract\packages\SharpDX.Mathematics.4.2.0\lib\uap10.0\SharpDX.Mathematics.pdb
+Message: 15.10.2024 08:02:24.838 13276 WARNING: source file is skipped because it has the debug file extension, D:\Мои программы\C#\Penteract\obj\Debug\Penteract.pdb
+Message: 15.10.2024 08:02:26.182 13276 Overall=2
+PrepareTempPaths=0
+PrepareOutputPath=0
+PrepareFilters=0
+PrepareRedists=0
+PrepareRegistry=0
+PrepareIcons=0
+PrepareAppFiles=0
+PrepareRemoveList=0
+Compress "D:\Мои программы\C#\bin\Debug\0_2037116distrib4\app.7z" "D:\Мои программы\C#\bin\Debug\$$temp$$1\app\"=2
+PrepareDistrib=0
+PrepareManifest=0
+CleanUp=0
+Message: 15.10.2024 08:02:26.183 13276 Finish OK CreateDistrib.exe; Seconds: 2
+Message: 15.10.2024 08:02:26.183 13276 ExitCode=0 OK
+
+Message: 15.10.2024 08:02:26.185 11916 Exec: Result=True ExitCode=0
+Message: 15.10.2024 08:02:26.185 11916 CalcContent D:\Мои программы\C#\bin\Debug\0_2037116distrib4
+Message: 15.10.2024 08:02:26.185 11916 CalcContent 2
+Message: 15.10.2024 08:02:26.248 11916 Step1_ProcessDiff
+Message: 15.10.2024 08:02:26.249 11916 Step1_ProcessSave
+Message: 15.10.2024 08:02:26.393 11916 Login Timestamp=1728954146 QuotaSize=53687091200
+Message: 15.10.2024 08:02:26.393 11916 UserName=430677308@vk
+Message: 15.10.2024 08:02:26.393 11916 Process Sanity check
+Message: 15.10.2024 08:02:26.394 11916 Interaction with the server started
+Message: 15.10.2024 08:02:26.394 11916 Process Distrib-Package trash. TrashDay=20
+Message: 15.10.2024 08:02:34.276 11916 Process Patch-Package trash. PatchTrashDay=160
+Message: 15.10.2024 08:02:42.537 11916 Process packages autoremoving based on quota-size limit (50,00 GB)
+Message: 15.10.2024 08:02:58.376 11916 Apply Package Changes
+Message: 15.10.2024 08:03:06.355 11916 Create "shop/0_2037116distrib4"
+Message: 15.10.2024 08:03:14.334 11916 Add package: "shop/0_2037116distrib4"
+Message: 15.10.2024 08:03:14.334 11916 Process Package Content Changes
+Message: 15.10.2024 08:03:22.525 11916 Reuse complete: "shop/0_2037116distrib4" 0/2
+Message: 15.10.2024 08:03:22.619 11916 StartUpload receives sessionId 4536557
+Message: 15.10.2024 08:03:28.939 11916 FinishPackageUpload
+Message: 15.10.2024 08:03:37.013 11916 Publish packages: shop/0_2037116distrib4
+Message: 15.10.2024 08:03:45.356 11916 Publish package: "shop/0_2037116distrib4"
+Message: 15.10.2024 08:03:45.356 11916 Process Distrib-Package trash. TrashDay=20
+Message: 15.10.2024 08:03:53.241 11916 Process Patch-Package trash. PatchTrashDay=160
+Message: 15.10.2024 08:04:01.326 11916 Process packages autoremoving based on quota-size limit (50,00 GB)
+Message: 15.10.2024 08:04:17.395 11916 Apply Package Changes
+Message: 15.10.2024 08:04:25.256 11916 Process Lists
+Message: 15.10.2024 08:04:33.537 11916 DownloadFile: torrents/patches/0_2037116_t_head.xml
+Message: 15.10.2024 08:04:33.723 11916 Remove file: "torrents/patches/0_2037116_t0.xml"
+Message: 15.10.2024 08:04:33.814 11916 Remove file: "torrents/patches/0_2037116_t_head.xml"
+Message: 15.10.2024 08:04:33.814 11916 Upload 0_2037116_t0.xml
+Message: 15.10.2024 08:04:33.909 11916 StartUpload receives sessionId 4536558
+Message: 15.10.2024 08:04:34.080 11916 FinishFileUpload
+Message: 15.10.2024 08:04:34.080 11916 Upload 0_2037116_t_head.xml
+Message: 15.10.2024 08:04:34.176 11916 StartUpload receives sessionId 4536559
+Message: 15.10.2024 08:04:34.344 11916 FinishFileUpload
+Message: 15.10.2024 08:04:34.344 11916 Save project.xml
+Message: 15.10.2024 08:04:34.345 11916 Uploading actual project.xml
+Message: 15.10.2024 08:04:35.182 11916 Actual project.xml has been uploaded
+Message: 15.10.2024 08:04:43.168 11916 Batch Remove packages: shop/0_2037116distrib3
+Message: 15.10.2024 08:04:51.156 11916 Removed packages: shop/0_2037116distrib3
+Message: 15.10.2024 08:04:51.156 11916 Interaction with the server finished; Seconds: 145
+Message: 15.10.2024 08:04:51.157 11916 Free space D:\Мои программы\C#\bin\Debug\ 608,69 GB
+Message: 15.10.2024 08:04:51.157 11916 gc_id=0.2037116
+Message: 15.10.2024 08:04:51.157 11916 Finish OK bstool.exe; Seconds: 180
+Message: 15.10.2024 08:04:51.157 11916 ExitCode=0 OK
+
+
+Message: 15.10.2024 08:11:45.131 2904 [build:146 date:2024-07-30 18:03:35 +0300] x64 libcurl/8.7.1 Schannel zlib/1.3.1 nghttp2/1.60.0
+CPU=AMD_ZEN3,FPU,TSC,CX8,CLFSH,MMX,AES,ERMS,F16C,FMA3,VAES,VPCLMULQDQ,BMI1,BMI2,RDSEED,CLFLUSHOPT,CLWB,SSE,SSE2,SSE3,SSSE3,SSE4_1,SSE4_2,SSE4A,AVX,AVX2,PCLMULQDQ,CX16,SHA,POPCNT,MOVBE,RDRND,ADX,LZCNT,FS_REP_MOV
+  StartCommandLine: C:\Users\Дмитрий\Downloads\win64\bstool.exe "D:\Мои программы\C#\bin\Debug\" "-src=D:\Мои программы\C#\Penteract\" -token=bc74616301bec701fa300ff530c39d119901214050586486e70063b3c507125c -skipselfupdate -versioninfo=1.0
+  CurrentDirectory: D:\Мои программы\C#\bin\Debug
+Message: 15.10.2024 08:11:45.133 2904 Free space D:\Мои программы\C#\bin\Debug\ 608,69 GB
+Message: 15.10.2024 08:11:45.133 2904 Config: D:\Мои программы\C#\bin\Debug\build.ini
+Message: 15.10.2024 08:11:45.500 2904 ServerUrl: http://adm-store.dl.mail.ru/admin.php; GameId: 0.2037116
+Message: 15.10.2024 08:11:46.005 2904 Forced CompressedFiles/non-pure because encryption is applied
+Message: 15.10.2024 08:11:46.791 2904 Login Timestamp=1728954706 QuotaSize=53687091200
+Message: 15.10.2024 08:11:46.791 2904 UserName=430677308@vk
+Message: 15.10.2024 08:11:46.791 2904 Auto delete the existing last build been in the test line, #4
+Message: 15.10.2024 08:11:46.791 2904 Trash package 0_2037116distrib4
+Message: 15.10.2024 08:11:46.791 2904 Process Distrib-Package trash. TrashDay=20
+Message: 15.10.2024 08:11:54.719 2904 Process Patch-Package trash. PatchTrashDay=160
+Message: 15.10.2024 08:12:02.962 2904 Process packages autoremoving based on quota-size limit (50,00 GB)
+Message: 15.10.2024 08:12:11.076 2904 Apply Package Changes
+Message: 15.10.2024 08:12:18.898 2904 Save project.xml
+Message: 15.10.2024 08:12:18.898 2904 Uploading actual project.xml
+Message: 15.10.2024 08:12:19.760 2904 Actual project.xml has been uploaded
+Message: 15.10.2024 08:12:19.760 2904 Synchronizing local files from server
+Message: 15.10.2024 08:12:19.760 2904 Checking local files integrity
+Message: 15.10.2024 08:12:19.760 2904 Step1_Load
+Message: 15.10.2024 08:12:19.760 2904 Will create new build #5
+Message: 15.10.2024 08:12:19.765 2904 Step1_ProcessAllFileNamesList
+Message: 15.10.2024 08:12:19.765 2904 Step1_ProcessDistrib
+Message: 15.10.2024 08:12:19.765 2904 Exec (CurDir=D:\Мои программы\C#\bin\Debug) CommandLine=C:\Users\Дмитрий\Downloads\win64\CreateDistrib.exe "D:\Мои программы\C#\bin\Debug\build.ini" 5 "D:\Мои программы\C#\Penteract\" "-allfilenameslist=D:\Мои программы\C#\bin\Debug\all_file_names_list.txt" -skipselfupdate -usecurrentdirastemp
+
+Message: 15.10.2024 08:12:19.771 13260 [build:146 date:2024-07-30 18:03:35 +0300] x64 libcurl/8.7.1 Schannel zlib/1.3.1 nghttp2/1.60.0
+CPU=AMD_ZEN3,FPU,TSC,CX8,CLFSH,MMX,AES,ERMS,F16C,FMA3,VAES,VPCLMULQDQ,BMI1,BMI2,RDSEED,CLFLUSHOPT,CLWB,SSE,SSE2,SSE3,SSSE3,SSE4_1,SSE4_2,SSE4A,AVX,AVX2,PCLMULQDQ,CX16,SHA,POPCNT,MOVBE,RDRND,ADX,LZCNT,FS_REP_MOV
+  StartCommandLine: C:\Users\Дмитрий\Downloads\win64\CreateDistrib.exe "D:\Мои программы\C#\bin\Debug\build.ini" 5 "D:\Мои программы\C#\Penteract\" "-allfilenameslist=D:\Мои программы\C#\bin\Debug\all_file_names_list.txt" -skipselfupdate -usecurrentdirastemp
+  CurrentDirectory: D:\Мои программы\C#\bin\Debug
+Message: 15.10.2024 08:12:19.833 13260 WARNING: source file is skipped because it has the debug file extension, D:\Мои программы\C#\Penteract\packages\SharpDX.4.2.0\lib\net40\SharpDX.pdb
+Message: 15.10.2024 08:12:19.834 13260 WARNING: source file is skipped because it has the debug file extension, D:\Мои программы\C#\Penteract\packages\SharpDX.4.2.0\lib\net45\SharpDX.pdb
+Message: 15.10.2024 08:12:19.835 13260 WARNING: source file is skipped because it has the debug file extension, D:\Мои программы\C#\Penteract\packages\SharpDX.4.2.0\lib\netstandard1.1\SharpDX.pdb
+Message: 15.10.2024 08:12:19.837 13260 WARNING: source file is skipped because it has the debug file extension, D:\Мои программы\C#\Penteract\packages\SharpDX.4.2.0\lib\uap10.0\SharpDX.pdb
+Message: 15.10.2024 08:12:19.839 13260 WARNING: source file is skipped because it has the debug file extension, D:\Мои программы\C#\Penteract\packages\SharpDX.Mathematics.4.2.0\lib\net40\SharpDX.Mathematics.pdb
+Message: 15.10.2024 08:12:19.840 13260 WARNING: source file is skipped because it has the debug file extension, D:\Мои программы\C#\Penteract\packages\SharpDX.Mathematics.4.2.0\lib\net45\SharpDX.Mathematics.pdb
+Message: 15.10.2024 08:12:19.842 13260 WARNING: source file is skipped because it has the debug file extension, D:\Мои программы\C#\Penteract\packages\SharpDX.Mathematics.4.2.0\lib\netstandard1.1\SharpDX.Mathematics.pdb
+Message: 15.10.2024 08:12:19.843 13260 WARNING: source file is skipped because it has the debug file extension, D:\Мои программы\C#\Penteract\packages\SharpDX.Mathematics.4.2.0\lib\uap10.0\SharpDX.Mathematics.pdb
+Message: 15.10.2024 08:12:19.847 13260 WARNING: source file is skipped because it has the debug file extension, D:\Мои программы\C#\Penteract\obj\Debug\Penteract.pdb
+Message: 15.10.2024 08:12:21.086 13260 Overall=2
+PrepareTempPaths=0
+PrepareOutputPath=0
+PrepareFilters=0
+PrepareRedists=0
+PrepareRegistry=0
+PrepareIcons=0
+PrepareAppFiles=1
+PrepareRemoveList=0
+Compress "D:\Мои программы\C#\bin\Debug\0_2037116distrib5\app.7z" "D:\Мои программы\C#\bin\Debug\$$temp$$1\app\"=1
+PrepareDistrib=0
+PrepareManifest=0
+CleanUp=0
+Message: 15.10.2024 08:12:21.087 13260 Finish OK CreateDistrib.exe; Seconds: 2
+Message: 15.10.2024 08:12:21.087 13260 ExitCode=0 OK
+
+Message: 15.10.2024 08:12:21.090 2904 Exec: Result=True ExitCode=0
+Message: 15.10.2024 08:12:21.090 2904 CalcContent D:\Мои программы\C#\bin\Debug\0_2037116distrib5
+Message: 15.10.2024 08:12:21.090 2904 CalcContent 2
+Message: 15.10.2024 08:12:21.153 2904 Step1_ProcessDiff
+Message: 15.10.2024 08:12:21.153 2904 Step1_ProcessSave
+Message: 15.10.2024 08:12:21.336 2904 Login Timestamp=1728954741 QuotaSize=53687091200
+Message: 15.10.2024 08:12:21.336 2904 UserName=430677308@vk
+Message: 15.10.2024 08:12:21.336 2904 Process Sanity check
+Message: 15.10.2024 08:12:21.337 2904 Interaction with the server started
+Message: 15.10.2024 08:12:21.337 2904 Process Distrib-Package trash. TrashDay=20
+Message: 15.10.2024 08:12:29.385 2904 Process Patch-Package trash. PatchTrashDay=160
+Message: 15.10.2024 08:12:37.290 2904 Process packages autoremoving based on quota-size limit (50,00 GB)
+Message: 15.10.2024 08:12:53.452 2904 Apply Package Changes
+Message: 15.10.2024 08:13:01.426 2904 Create "shop/0_2037116distrib5"
+Message: 15.10.2024 08:13:09.431 2904 Add package: "shop/0_2037116distrib5"
+Message: 15.10.2024 08:13:09.431 2904 Process Package Content Changes
+Message: 15.10.2024 08:13:17.694 2904 Reuse complete: "shop/0_2037116distrib5" 0/2
+Message: 15.10.2024 08:13:17.787 2904 StartUpload receives sessionId 4536560
+Message: 15.10.2024 08:13:27.571 2904 FinishPackageUpload
+Message: 15.10.2024 08:13:35.500 2904 Publish packages: shop/0_2037116distrib5
+Message: 15.10.2024 08:13:43.939 2904 Publish package: "shop/0_2037116distrib5"
+Message: 15.10.2024 08:13:43.939 2904 Process Distrib-Package trash. TrashDay=20
+Message: 15.10.2024 08:13:51.956 2904 Process Patch-Package trash. PatchTrashDay=160
+Message: 15.10.2024 08:14:00.027 2904 Process packages autoremoving based on quota-size limit (50,00 GB)
+Message: 15.10.2024 08:14:16.185 2904 Apply Package Changes
+Message: 15.10.2024 08:14:24.155 2904 Process Lists
+Message: 15.10.2024 08:14:32.388 2904 DownloadFile: torrents/patches/0_2037116_t_head.xml
+Message: 15.10.2024 08:14:32.573 2904 Remove file: "torrents/patches/0_2037116_t0.xml"
+Message: 15.10.2024 08:14:32.667 2904 Remove file: "torrents/patches/0_2037116_t_head.xml"
+Message: 15.10.2024 08:14:32.667 2904 Upload 0_2037116_t0.xml
+Message: 15.10.2024 08:14:32.760 2904 StartUpload receives sessionId 4536561
+Message: 15.10.2024 08:14:32.948 2904 FinishFileUpload
+Message: 15.10.2024 08:14:32.948 2904 Upload 0_2037116_t_head.xml
+Message: 15.10.2024 08:14:33.041 2904 StartUpload receives sessionId 4536562
+Message: 15.10.2024 08:14:33.226 2904 FinishFileUpload
+Message: 15.10.2024 08:14:33.226 2904 Save project.xml
+Message: 15.10.2024 08:14:33.227 2904 Uploading actual project.xml
+Message: 15.10.2024 08:14:34.195 2904 Actual project.xml has been uploaded
+Message: 15.10.2024 08:14:42.318 2904 Batch Remove packages: shop/0_2037116distrib4
+Message: 15.10.2024 08:14:50.216 2904 Removed packages: shop/0_2037116distrib4
+Message: 15.10.2024 08:14:50.216 2904 Interaction with the server finished; Seconds: 149
+Message: 15.10.2024 08:14:50.217 2904 Free space D:\Мои программы\C#\bin\Debug\ 608,68 GB
+Message: 15.10.2024 08:14:50.217 2904 gc_id=0.2037116
+Message: 15.10.2024 08:14:50.217 2904 Finish OK bstool.exe; Seconds: 185
+Message: 15.10.2024 08:14:50.217 2904 ExitCode=0 OK
+
+
+Message: 15.10.2024 08:16:42.145 6876 [build:146 date:2024-07-30 18:03:35 +0300] x64 libcurl/8.7.1 Schannel zlib/1.3.1 nghttp2/1.60.0
+CPU=AMD_ZEN3,FPU,TSC,CX8,CLFSH,MMX,AES,ERMS,F16C,FMA3,VAES,VPCLMULQDQ,BMI1,BMI2,RDSEED,CLFLUSHOPT,CLWB,SSE,SSE2,SSE3,SSSE3,SSE4_1,SSE4_2,SSE4A,AVX,AVX2,PCLMULQDQ,CX16,SHA,POPCNT,MOVBE,RDRND,ADX,LZCNT,FS_REP_MOV
+  StartCommandLine: C:\Users\Дмитрий\Downloads\win64\bstool.exe "D:\Мои программы\C#\bin\Debug\" "-src=D:\Мои программы\C#\Penteract\" -token=bc74616301bec701fa300ff530c39d119901214050586486e70063b3c507125c -skipselfupdate -versioninfo=1.0
+  CurrentDirectory: D:\Мои программы\C#\bin\Debug
+Message: 15.10.2024 08:16:42.147 6876 Free space D:\Мои программы\C#\bin\Debug\ 608,68 GB
+Message: 15.10.2024 08:16:42.147 6876 Config: D:\Мои программы\C#\bin\Debug\build.ini
+Message: 15.10.2024 08:16:42.445 6876 ServerUrl: http://adm-store.dl.mail.ru/admin.php; GameId: 0.2037116
+Message: 15.10.2024 08:16:42.962 6876 Forced CompressedFiles/non-pure because encryption is applied
+Message: 15.10.2024 08:16:43.239 6876 Login Timestamp=1728955002 QuotaSize=53687091200
+Message: 15.10.2024 08:16:43.239 6876 UserName=430677308@vk
+Message: 15.10.2024 08:16:43.239 6876 Auto delete the existing last build been in the test line, #5
+Message: 15.10.2024 08:16:43.240 6876 Trash package 0_2037116distrib5
+Message: 15.10.2024 08:16:43.241 6876 Process Distrib-Package trash. TrashDay=20
+Message: 15.10.2024 08:16:51.128 6876 Process Patch-Package trash. PatchTrashDay=160
+Message: 15.10.2024 08:16:59.001 6876 Process packages autoremoving based on quota-size limit (50,00 GB)
+Message: 15.10.2024 08:17:07.090 6876 Apply Package Changes
+Message: 15.10.2024 08:17:14.995 6876 Save project.xml
+Message: 15.10.2024 08:17:14.995 6876 Uploading actual project.xml
+Message: 15.10.2024 08:17:16.066 6876 Actual project.xml has been uploaded
+Message: 15.10.2024 08:17:16.066 6876 Synchronizing local files from server
+Message: 15.10.2024 08:17:16.066 6876 Checking local files integrity
+Message: 15.10.2024 08:17:16.066 6876 Step1_Load
+Message: 15.10.2024 08:17:16.066 6876 Will create new build #6
+Message: 15.10.2024 08:17:16.071 6876 Step1_ProcessAllFileNamesList
+Message: 15.10.2024 08:17:16.071 6876 Step1_ProcessDistrib
+Message: 15.10.2024 08:17:16.071 6876 Exec (CurDir=D:\Мои программы\C#\bin\Debug) CommandLine=C:\Users\Дмитрий\Downloads\win64\CreateDistrib.exe "D:\Мои программы\C#\bin\Debug\build.ini" 6 "D:\Мои программы\C#\Penteract\" "-allfilenameslist=D:\Мои программы\C#\bin\Debug\all_file_names_list.txt" -skipselfupdate -usecurrentdirastemp
+
+Message: 15.10.2024 08:17:16.077 968 [build:146 date:2024-07-30 18:03:35 +0300] x64 libcurl/8.7.1 Schannel zlib/1.3.1 nghttp2/1.60.0
+CPU=AMD_ZEN3,FPU,TSC,CX8,CLFSH,MMX,AES,ERMS,F16C,FMA3,VAES,VPCLMULQDQ,BMI1,BMI2,RDSEED,CLFLUSHOPT,CLWB,SSE,SSE2,SSE3,SSSE3,SSE4_1,SSE4_2,SSE4A,AVX,AVX2,PCLMULQDQ,CX16,SHA,POPCNT,MOVBE,RDRND,ADX,LZCNT,FS_REP_MOV
+  StartCommandLine: C:\Users\Дмитрий\Downloads\win64\CreateDistrib.exe "D:\Мои программы\C#\bin\Debug\build.ini" 6 "D:\Мои программы\C#\Penteract\" "-allfilenameslist=D:\Мои программы\C#\bin\Debug\all_file_names_list.txt" -skipselfupdate -usecurrentdirastemp
+  CurrentDirectory: D:\Мои программы\C#\bin\Debug
+Message: 15.10.2024 08:17:16.116 968 WARNING: source file is skipped because it has the debug file extension, D:\Мои программы\C#\Penteract\packages\SharpDX.4.2.0\lib\net40\SharpDX.pdb
+Message: 15.10.2024 08:17:16.117 968 WARNING: source file is skipped because it has the debug file extension, D:\Мои программы\C#\Penteract\packages\SharpDX.4.2.0\lib\net45\SharpDX.pdb
+Message: 15.10.2024 08:17:16.118 968 WARNING: source file is skipped because it has the debug file extension, D:\Мои программы\C#\Penteract\packages\SharpDX.4.2.0\lib\netstandard1.1\SharpDX.pdb
+Message: 15.10.2024 08:17:16.120 968 WARNING: source file is skipped because it has the debug file extension, D:\Мои программы\C#\Penteract\packages\SharpDX.4.2.0\lib\uap10.0\SharpDX.pdb
+Message: 15.10.2024 08:17:16.122 968 WARNING: source file is skipped because it has the debug file extension, D:\Мои программы\C#\Penteract\packages\SharpDX.Mathematics.4.2.0\lib\net40\SharpDX.Mathematics.pdb
+Message: 15.10.2024 08:17:16.124 968 WARNING: source file is skipped because it has the debug file extension, D:\Мои программы\C#\Penteract\packages\SharpDX.Mathematics.4.2.0\lib\net45\SharpDX.Mathematics.pdb
+Message: 15.10.2024 08:17:16.125 968 WARNING: source file is skipped because it has the debug file extension, D:\Мои программы\C#\Penteract\packages\SharpDX.Mathematics.4.2.0\lib\netstandard1.1\SharpDX.Mathematics.pdb
+Message: 15.10.2024 08:17:16.126 968 WARNING: source file is skipped because it has the debug file extension, D:\Мои программы\C#\Penteract\packages\SharpDX.Mathematics.4.2.0\lib\uap10.0\SharpDX.Mathematics.pdb
+Message: 15.10.2024 08:17:16.130 968 WARNING: source file is skipped because it has the debug file extension, D:\Мои программы\C#\Penteract\obj\Debug\Penteract.pdb
+Message: 15.10.2024 08:17:17.108 968 Overall=1
+PrepareTempPaths=0
+PrepareOutputPath=0
+PrepareFilters=0
+PrepareRedists=0
+PrepareRegistry=0
+PrepareIcons=0
+PrepareAppFiles=0
+PrepareRemoveList=0
+Compress "D:\Мои программы\C#\bin\Debug\0_2037116distrib6\app.7z" "D:\Мои программы\C#\bin\Debug\$$temp$$1\app\"=1
+PrepareDistrib=0
+PrepareManifest=0
+CleanUp=0
+Message: 15.10.2024 08:17:17.109 968 Finish OK CreateDistrib.exe; Seconds: 1
+Message: 15.10.2024 08:17:17.109 968 ExitCode=0 OK
+
+Message: 15.10.2024 08:17:17.110 6876 Exec: Result=True ExitCode=0
+Message: 15.10.2024 08:17:17.111 6876 CalcContent D:\Мои программы\C#\bin\Debug\0_2037116distrib6
+Message: 15.10.2024 08:17:17.111 6876 CalcContent 2
+Message: 15.10.2024 08:17:17.175 6876 Step1_ProcessDiff
+Message: 15.10.2024 08:17:17.175 6876 Step1_ProcessSave
+Message: 15.10.2024 08:17:17.318 6876 Login Timestamp=1728955037 QuotaSize=53687091200
+Message: 15.10.2024 08:17:17.318 6876 UserName=430677308@vk
+Message: 15.10.2024 08:17:17.318 6876 Process Sanity check
+Message: 15.10.2024 08:17:17.318 6876 Interaction with the server started
+Message: 15.10.2024 08:17:17.319 6876 Process Distrib-Package trash. TrashDay=20
+Message: 15.10.2024 08:17:25.086 6876 Process Patch-Package trash. PatchTrashDay=160
+Message: 15.10.2024 08:17:32.963 6876 Process packages autoremoving based on quota-size limit (50,00 GB)
+Message: 15.10.2024 08:17:48.748 6876 Apply Package Changes
+Message: 15.10.2024 08:17:56.758 6876 Create "shop/0_2037116distrib6"
+Message: 15.10.2024 08:18:04.737 6876 Add package: "shop/0_2037116distrib6"
+Message: 15.10.2024 08:18:04.737 6876 Process Package Content Changes
+Message: 15.10.2024 08:18:12.915 6876 Reuse complete: "shop/0_2037116distrib6" 0/2
+Message: 15.10.2024 08:18:13.008 6876 StartUpload receives sessionId 4536563
+Message: 15.10.2024 08:18:16.482 6876 FinishPackageUpload
+Message: 15.10.2024 08:18:24.380 6876 Publish packages: shop/0_2037116distrib6
+Message: 15.10.2024 08:18:32.635 6876 Publish package: "shop/0_2037116distrib6"
+Message: 15.10.2024 08:18:32.635 6876 Process Distrib-Package trash. TrashDay=20
+Message: 15.10.2024 08:18:40.454 6876 Process Patch-Package trash. PatchTrashDay=160
+Message: 15.10.2024 08:18:48.320 6876 Process packages autoremoving based on quota-size limit (50,00 GB)
+Message: 15.10.2024 08:19:04.389 6876 Apply Package Changes
+Message: 15.10.2024 08:19:12.542 6876 Process Lists
+Message: 15.10.2024 08:19:20.539 6876 DownloadFile: torrents/patches/0_2037116_t_head.xml
+Message: 15.10.2024 08:19:20.727 6876 Remove file: "torrents/patches/0_2037116_t0.xml"
+Message: 15.10.2024 08:19:20.820 6876 Remove file: "torrents/patches/0_2037116_t_head.xml"
+Message: 15.10.2024 08:19:20.820 6876 Upload 0_2037116_t0.xml
+Message: 15.10.2024 08:19:20.914 6876 StartUpload receives sessionId 4536564
+Message: 15.10.2024 08:19:21.085 6876 FinishFileUpload
+Message: 15.10.2024 08:19:21.086 6876 Upload 0_2037116_t_head.xml
+Message: 15.10.2024 08:19:21.178 6876 StartUpload receives sessionId 4536565
+Message: 15.10.2024 08:19:21.348 6876 FinishFileUpload
+Message: 15.10.2024 08:19:21.348 6876 Save project.xml
+Message: 15.10.2024 08:19:21.349 6876 Uploading actual project.xml
+Message: 15.10.2024 08:19:22.108 6876 Actual project.xml has been uploaded
+Message: 15.10.2024 08:19:30.095 6876 Batch Remove packages: shop/0_2037116distrib5
+Message: 15.10.2024 08:19:38.059 6876 Removed packages: shop/0_2037116distrib5
+Message: 15.10.2024 08:19:38.060 6876 Interaction with the server finished; Seconds: 141
+Message: 15.10.2024 08:19:38.060 6876 Free space D:\Мои программы\C#\bin\Debug\ 608,66 GB
+Message: 15.10.2024 08:19:38.060 6876 gc_id=0.2037116
+Message: 15.10.2024 08:19:38.061 6876 Finish OK bstool.exe; Seconds: 176
+Message: 15.10.2024 08:19:38.061 6876 ExitCode=0 OK
+

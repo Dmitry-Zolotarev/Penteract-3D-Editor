@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project Name="0_2037116" KnownMaxBuildId="7" dt="1729063220" SrcFolderChecksum="D3B2411B4BA9852531763A1DDE5E8C02">
+	<Packs>
+		<Pack BuildId="6" LineId="0" VersionInfo="1.0"/>
+		<Pack BuildId="7" LineId="1"/>
+	</Packs>
+	<Packages>
+		<Package SrcBuild="0" DstBuild="6" Disabled="0" InstalledTotalSize="35113988" InstalledMaxFileSize="3455718"
+		 PureTotalSize="0" ManifestSign="5A4E7B231E903C7BC94EF6A7E7C8CEC3D1C3D61400601EBBBB755649EFEB8B3B">
+			<File Name="app.7z.001" Size="14676978" Timestamp="1728955038" Hash="C67BD4AA412E958DD8001B561C655964"/>
+			<File Name="manifest.xml.gz" Size="5679" Timestamp="1728955038" Hash="AFA29A92401793A330A0DE7F7CF75A89"/>
+		</Package>
+		<Package SrcBuild="0" DstBuild="7" Disabled="0" InstalledTotalSize="38404452" InstalledMaxFileSize="3455718"
+		 PureTotalSize="0" ManifestSign="6D9130EAB9C81084F3F81FEE1C1CBAEF16FFF04695F0BCAB6AA044E5CF838ED3">
+			<File Name="app.7z.001" Size="17320882" Timestamp="1729077466" Hash="DE2C942802D277149C06ACE195D95000"/>
+			<File Name="manifest.xml.gz" Size="5711" Timestamp="1729077466" Hash="A69E4C336C1B86008A3AE375B12CE864"/>
+		</Package>
+		<Package SrcBuild="6" DstBuild="7" Disabled="0" InstalledTotalSize="4564880" InstalledMaxFileSize="3446970"
+		 PureTotalSize="0" ManifestSign="ECE0EE6FC6D8B1A5404D673B699B89E50AADE75CD107115319A2262A00F3DCCA">
+			<File Name="app.7z.001" Size="2878723" Timestamp="1729077466" Hash="DEF9D177869C74D81490F73714F13886"/>
+			<File Name="manifest.xml.gz" Size="1663" Timestamp="1729077466" Hash="0D10FFF3773E801F8AF30802867E0A4C"/>
+			<File Name="patch.7z.001" Size="290992" Timestamp="1729077466" Hash="FEAB42B31F30ED7E729BBBF942AC0295"/>
+		</Package>
+	</Packages>
+</Project>

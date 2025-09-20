@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project Name="0_2037116" KnownMaxBuildId="6" dt="1728940761" SrcFolderChecksum="81CE947DE66C2155786A7FF49932C71A">
+	<Packs>
+		<Pack BuildId="6" LineId="1" VersionInfo="1.0"/>
+	</Packs>
+	<Packages>
+		<Package SrcBuild="0" DstBuild="6" Disabled="0" InstalledTotalSize="35113988" InstalledMaxFileSize="3455718"
+		 PureTotalSize="0" ManifestSign="5A4E7B231E903C7BC94EF6A7E7C8CEC3D1C3D61400601EBBBB755649EFEB8B3B">
+			<File Name="app.7z.001" Size="14676978" Timestamp="1728955038" Hash="C67BD4AA412E958DD8001B561C655964"/>
+			<File Name="manifest.xml.gz" Size="5679" Timestamp="1728955038" Hash="AFA29A92401793A330A0DE7F7CF75A89"/>
+		</Package>
+	</Packages>
+</Project>

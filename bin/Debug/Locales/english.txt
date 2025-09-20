@@ -1,0 +1,135 @@
+List of objects
+Selected objects transformation
+Move
+Rotate in degrees
+Scale
+Change render mode (Ctrl + R)
+File
+Open
+Save As
+Save a screenshot of a 3D scene (Alt + S)
+Edit
+Undo (Ctrl + Z)
+Redo (Ctrl + Shift + Z)
+Draw a new object (Alt + N)
+Delete the current object (Del)
+Delete all objects (Alt + Del)
+Options
+Help
+View help
+About the program
+Current object: 
+No object selected
+Object vertices
+Object polygons
+Set texture (Alt + T)
+Delete texture (Alt + D)
+Finish drawing (Alt + X)
+Save 3D scene to file
+Add shape
+Cube
+Square
+Triangle
+Pyramid (cone)
+Prism (cylinder)
+N-sided sphere
+N-gon (circle)
+Show coordinate axes
+Show grid
+Lighting options: 
+Turn on lighting
+Light source position:
+Rename (F2)
+Delete (Del)
+Merge (Alt + M)
+Copy (Ctrl + C)
+Paste (Ctrl + V)
+Paste copy (Ctrl + V)
+Save a snapshot of a 3D scene
+Background color: 
+Object color: 
+Light color: 
+Default background color: 
+Default object color: 
+Press Ctrl and rotate the camera to draw
+Change the background color
+Change the color and brightness of the lighting
+Change the color of the current object
+Right-click
+Apply texture from a graphic file
+Remove texture from an objects(Alt + D)
+Complete drawing(Alt + X)
+Change current object render mode (Ctrl + R)
+Lines
+Planes
+New object
+-sided sphere
+-angled
+-gon
+Tetrahedron
+Vertex
+Polygon
+Zolotarev Dmitry
+Save changes before exit?
+Error: 
+Data successfully saved to file 
+Enter a number of vertices at the base of 
+To build a pyramid, you need at least 3 vertices at the base!
+Ring (torus)
+To build a prism, you need at least 3 vertices at the base!
+Enter a number of 
+To build a polyhedron, you need at least 9 vertices!
+Enter the number of polygon vertices:
+To build a polygon you need at least 3 vertices!
+Set camera position
+Show selection (Ctrl + F)
+Interface language
+Object transformation
+Default background color:
+Default object color:
+Invisibility
+Left view
+Right view
+Top view
+Bottom view
+Front view
+Back view
+wrong file extension!
+Enter the name of a new object:
+For merge needs at least 2 objects
+Set color (Alt + C) 
+Enter the name of the object #
+Keys W, A, S, D, C, Q, E, Space - camera movement; hold Shift to move the selected object
+Enter no more vertices.
+Shift vertices and polygons (Alt + V)
+Transforming Selected Polygons
+Shift selected vertices
+Editing vertices and polygons
+List of polygons of all objects
+List of vertices of all objects
+Modifying polygons
+Modifying vertices
+Divide into equal parts
+Dividing selected polygons by a central point
+No polygons selected.
+object merging
+Enter a hole radius (between 0 and 2):
+pyramid:
+prism:
+sphere vertices:
+torus vertices:
+-sided torus
+Restart application
+Error: too big file!
+ at startup
+Total vertices:
+Total polygons:
+Opening file 
+ completed at 
+ aborted by user.
+Extrude
+Extruding selected polygons with adding new edges 
+Enter a speed of drawing polygons (0.5 - 5):
+The value entered is incorrect!
+Draw speed:
+Flip 
