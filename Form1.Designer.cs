@@ -87,8 +87,6 @@ namespace Penteract
             this.Y2 = new System.Windows.Forms.NumericUpDown();
             this.label12 = new System.Windows.Forms.Label();
             this.X2 = new System.Windows.Forms.NumericUpDown();
-            this.colorLabel = new System.Windows.Forms.Label();
-            this.setObjectColor = new System.Windows.Forms.Button();
             this.drawPanel = new System.Windows.Forms.Panel();
             this.drawSpeedField = new System.Windows.Forms.NumericUpDown();
             this.panel7 = new System.Windows.Forms.Panel();
@@ -146,9 +144,6 @@ namespace Penteract
             this.contextMenuUndo = new System.Windows.Forms.ToolStripMenuItem();
             this.contextMenuRedo = new System.Windows.Forms.ToolStripMenuItem();
             this.toolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
-            this.contextMenuStrip2 = new System.Windows.Forms.ContextMenuStrip(this.components);
-            this.rename3 = new System.Windows.Forms.ToolStripMenuItem();
-            this.delete2 = new System.Windows.Forms.ToolStripMenuItem();
             this.flowLayoutPanel2 = new System.Windows.Forms.FlowLayoutPanel();
             this.label13 = new System.Windows.Forms.Label();
             this.listShape = new System.Windows.Forms.ListBox();
@@ -229,7 +224,6 @@ namespace Penteract
             ((System.ComponentModel.ISupportInitialize)(this.lightX)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.lightY)).BeginInit();
             this.contextMenuStrip1.SuspendLayout();
-            this.contextMenuStrip2.SuspendLayout();
             this.flowLayoutPanel2.SuspendLayout();
             this.relativeTransform.SuspendLayout();
             this.panel4.SuspendLayout();
@@ -676,8 +670,6 @@ namespace Penteract
             this.flowLayoutPanel1.Controls.Add(this.transformation);
             this.flowLayoutPanel1.Controls.Add(this.vertexPanel);
             this.flowLayoutPanel1.Controls.Add(this.polygonPanel);
-            this.flowLayoutPanel1.Controls.Add(this.colorLabel);
-            this.flowLayoutPanel1.Controls.Add(this.setObjectColor);
             this.flowLayoutPanel1.Controls.Add(this.drawPanel);
             this.flowLayoutPanel1.Location = new System.Drawing.Point(1263, 23);
             this.flowLayoutPanel1.Name = "flowLayoutPanel1";
@@ -970,29 +962,6 @@ namespace Penteract
             this.X2.KeyDown += new System.Windows.Forms.KeyEventHandler(this.X2_KeyDown);
             this.X2.Leave += new System.EventHandler(this.X2_Leave);
             // 
-            // colorLabel
-            // 
-            this.colorLabel.AutoSize = true;
-            this.colorLabel.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.colorLabel.Location = new System.Drawing.Point(3, 463);
-            this.colorLabel.Name = "colorLabel";
-            this.colorLabel.Size = new System.Drawing.Size(94, 15);
-            this.colorLabel.TabIndex = 39;
-            this.colorLabel.Text = "÷‚ÂÚ Ó·˙ÂÍÚ‡: ";
-            this.colorLabel.Visible = false;
-            // 
-            // setObjectColor
-            // 
-            this.setObjectColor.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.setObjectColor.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.setObjectColor.Location = new System.Drawing.Point(3, 481);
-            this.setObjectColor.Name = "setObjectColor";
-            this.setObjectColor.Size = new System.Drawing.Size(152, 30);
-            this.setObjectColor.TabIndex = 24;
-            this.setObjectColor.UseVisualStyleBackColor = true;
-            this.setObjectColor.Visible = false;
-            this.setObjectColor.Click += new System.EventHandler(this.selectColor_Click);
-            // 
             // drawPanel
             // 
             this.drawPanel.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
@@ -1002,7 +971,7 @@ namespace Penteract
             this.drawPanel.Controls.Add(this.panel7);
             this.drawPanel.Controls.Add(this.exitCreate);
             this.drawPanel.Controls.Add(this.drawLabel);
-            this.drawPanel.Location = new System.Drawing.Point(3, 517);
+            this.drawPanel.Location = new System.Drawing.Point(3, 466);
             this.drawPanel.Name = "drawPanel";
             this.drawPanel.Size = new System.Drawing.Size(152, 85);
             this.drawPanel.TabIndex = 56;
@@ -1493,7 +1462,7 @@ namespace Penteract
             0,
             -2147483648});
             this.lightZ.Name = "lightZ";
-            this.lightZ.Size = new System.Drawing.Size(140, 20);
+            this.lightZ.Size = new System.Drawing.Size(139, 20);
             this.lightZ.TabIndex = 13;
             this.lightZ.ValueChanged += new System.EventHandler(this.lightZ_ValueChanged);
             // 
@@ -1518,7 +1487,7 @@ namespace Penteract
             0,
             -2147483648});
             this.lightX.Name = "lightX";
-            this.lightX.Size = new System.Drawing.Size(124, 20);
+            this.lightX.Size = new System.Drawing.Size(139, 20);
             this.lightX.TabIndex = 9;
             this.lightX.ValueChanged += new System.EventHandler(this.lightX_ValueChanged);
             // 
@@ -1542,7 +1511,7 @@ namespace Penteract
             0,
             -2147483648});
             this.lightY.Name = "lightY";
-            this.lightY.Size = new System.Drawing.Size(124, 20);
+            this.lightY.Size = new System.Drawing.Size(139, 20);
             this.lightY.TabIndex = 11;
             this.lightY.ValueChanged += new System.EventHandler(this.lightY_ValueChanged);
             // 
@@ -1710,29 +1679,6 @@ namespace Penteract
             this.toolStripMenuItem1.Name = "toolStripMenuItem1";
             this.toolStripMenuItem1.Size = new System.Drawing.Size(32, 19);
             // 
-            // contextMenuStrip2
-            // 
-            this.contextMenuStrip2.Font = new System.Drawing.Font("Segoe UI Semibold", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.contextMenuStrip2.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.rename3,
-            this.delete2});
-            this.contextMenuStrip2.Name = "contextMenuStrip2";
-            this.contextMenuStrip2.Size = new System.Drawing.Size(203, 48);
-            // 
-            // rename3
-            // 
-            this.rename3.Name = "rename3";
-            this.rename3.Size = new System.Drawing.Size(202, 22);
-            this.rename3.Text = "œÂÂËÏÂÌÓ‚‡Ú¸ (F2)";
-            this.rename3.Click += new System.EventHandler(this.rename3_Click);
-            // 
-            // delete2
-            // 
-            this.delete2.Name = "delete2";
-            this.delete2.Size = new System.Drawing.Size(202, 22);
-            this.delete2.Text = "”‰‡ÎËÚ¸ (Del)";
-            this.delete2.Click += new System.EventHandler(this.Û‰‡ÎËÚ¸ToolStripMenuItem_Click);
-            // 
             // flowLayoutPanel2
             // 
             this.flowLayoutPanel2.Controls.Add(this.label13);
@@ -1768,6 +1714,7 @@ namespace Penteract
             this.listShape.SelectionMode = System.Windows.Forms.SelectionMode.MultiExtended;
             this.listShape.Size = new System.Drawing.Size(170, 229);
             this.listShape.TabIndex = 60;
+            this.listShape.SelectedIndexChanged += new System.EventHandler(this.listShape_SelectedIndexChanged);
             // 
             // relativeTransform
             // 
@@ -2308,7 +2255,6 @@ namespace Penteract
             ((System.ComponentModel.ISupportInitialize)(this.lightX)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.lightY)).EndInit();
             this.contextMenuStrip1.ResumeLayout(false);
-            this.contextMenuStrip2.ResumeLayout(false);
             this.flowLayoutPanel2.ResumeLayout(false);
             this.flowLayoutPanel2.PerformLayout();
             this.relativeTransform.ResumeLayout(false);
@@ -2380,8 +2326,6 @@ namespace Penteract
         private System.Windows.Forms.ToolStripMenuItem contextMenuRedo;
         private System.Windows.Forms.ToolStripMenuItem toolStripMenuItem10;
         private System.Windows.Forms.BindingSource object3DBindingSource;
-        private System.Windows.Forms.ContextMenuStrip contextMenuStrip2;
-        private System.Windows.Forms.ToolStripMenuItem rename3;
         public System.Windows.Forms.RadioButton scaleRadio;
         public SharpGL.OpenGLControl screen3D;
         private System.Windows.Forms.FlowLayoutPanel flowLayoutPanel2;
@@ -2395,10 +2339,8 @@ namespace Penteract
         private System.Windows.Forms.ToolStripMenuItem ÒÙÂ‡ToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem nÛ„ÓÎ¸ÌËÍToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem ÔËÁÏ‡ToolStripMenuItem;
-        private System.Windows.Forms.Button setObjectColor;
         private System.Windows.Forms.Label label18;
         public System.Windows.Forms.ComboBox comboShapes;
-        private System.Windows.Forms.Label colorLabel;
         private System.Windows.Forms.Panel lightPanel;
         private System.Windows.Forms.Label label19;
         private System.Windows.Forms.Button setLightColor;
@@ -2412,7 +2354,6 @@ namespace Penteract
         private System.Windows.Forms.ToolStripMenuItem ÒÓı‡ÌËÚ¸—ÌËÏÓÍ3DÒˆÂÌ˚ToolStripMenuItem;
         private System.Windows.Forms.SaveFileDialog saveScreen;
         private System.Windows.Forms.ToolStripMenuItem settingsMenu;
-        private System.Windows.Forms.ToolStripMenuItem delete2;
         private System.Windows.Forms.ToolTip toolTip2;
         private System.Windows.Forms.ToolStripMenuItem toolStripMenuItem2;
         private System.Windows.Forms.ToolStripMenuItem toolStripMenuItem3;

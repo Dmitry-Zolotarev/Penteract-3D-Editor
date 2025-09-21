@@ -58,8 +58,6 @@ namespace Penteract
             camMoveCount = 10f / screen3D.FrameRate;
             Language = SystemLanguage();
             ApplySettings();
-            screen3D.ContextMenuStrip = contextMenuStrip2;
-            currentObject.ContextMenuStrip = contextMenuStrip2;
             listShape.ContextMenuStrip = contextMenuStrip3;
             previousCursorPosition = Cursor.Position;
             screen3D.OpenGL.Enable(OpenGL.GL_TEXTURE_2D);
@@ -185,9 +183,7 @@ namespace Penteract
                 contextMenuRedo.Text = localizedLabels[12];//Redo (Ctrl + Shift + Z)
                 toolStripMenuItem10.Text = localizedLabels[13];//Draw your object (Alt + N)
                 rename2.Text = localizedLabels[41];//Rename (F2)
-                rename3.Text = localizedLabels[41];//Rename (F2)
                 modify3.Text = localizedLabels[103];//Shifting vertices and polygons (Alt + V)
-                delete2.Text = localizedLabels[42];//Delete (Del) 
                 deleteItem3.Text = localizedLabels[42];//Delete (Del)
                 mergeItem.Text = localizedLabels[43];//Merge (Alt + M)
                 copyItem.Text = localizedLabels[44];//Copy (Ctrl + C)
@@ -231,13 +227,10 @@ namespace Penteract
                 bool objectSelected = allObjects.Count > 0;
                 vertexPanel.Enabled = objectSelected;
                 polygonPanel.Enabled = objectSelected;
-                contextMenuStrip2.Enabled = objectSelected;
                 transformation.Enabled = objectSelected;
                 currentObject.Enabled = objectSelected;
                 renderMode.Enabled = objectSelected;
                 label17.Enabled = objectSelected;
-                colorLabel.Visible = objectSelected;
-                setObjectColor.Visible = objectSelected;
                 screen3D.ContextMenuStrip = contextMenuStrip1;
                 drawPanel.Visible = objectSelected && allObjects[i].drawMode;
                 menuBarUndo.Enabled = undoRedo > 0;
@@ -254,7 +247,6 @@ namespace Penteract
                     toolTip2.Hide(listShape);
                 }
                 showSelection.Enabled = allObjects.Count > 0;
-                if (objectSelected) setObjectColor.BackColor = allObjects[i].GetColor();
                 deleteTexture.Enabled = false;
                 pasteItem.Enabled = clipBoard.Count > 0;
                 foreach (int I in listShape.SelectedIndices)
@@ -316,7 +308,6 @@ namespace Penteract
             toolTip2.SetToolTip(lightSwitch, localizedLabels[39] + " (Alt + L)");
             toolTip2.SetToolTip(setBackground, localizedLabels[54]);
             toolTip2.SetToolTip(setLightColor, localizedLabels[55]);
-            toolTip2.SetToolTip(setObjectColor, localizedLabels[56]);
             toolTip2.SetToolTip(listShape, localizedLabels[57]);
             toolTip2.SetToolTip(drawPanel, localizedLabels[60]);
             toolTip2.SetToolTip(renderMode, localizedLabels[61]);
@@ -919,7 +910,6 @@ namespace Penteract
                         break;
                 }
                 currentObject.Text = comboShapes.Text;
-                setObjectColor.BackColor = allObjects[i].GetColor();
                 allObjects[i].FindPosition();
                 drawSpeedField.Value = (decimal)(allObjects[i].drawFrequency);
                 if (scaleRadio.Checked) allObjects[i].FindSize();
@@ -1052,7 +1042,6 @@ namespace Penteract
             try
             {
                 allObjects[comboShapes.SelectedIndex].drawMode = false;
-                setObjectColor.Visible = true;
                 selectTextureItem.Visible = true;
             }
             catch(Exception) { }
@@ -1079,15 +1068,6 @@ namespace Penteract
                 foreach (int i in listShape.SelectedIndices) allObjects[i].setTexture("");
                 Backup();
             }
-        }
-        private void selectColor_Click(object sender, EventArgs e)
-        {//Call a color selection window for the selected object
-            var shape = allObjects[comboShapes.SelectedIndex];
-            colorDialog1.Color = shape.GetColor();
-            colorDialog1.ShowDialog();
-            setObjectColor.BackColor = colorDialog1.Color;
-            shape.setColor(colorDialog1.Color);
-            Backup();
         }
         private void fillObjects_Click(object sender, EventArgs e)
         {//Set new color to selected objects;
@@ -1497,10 +1477,6 @@ namespace Penteract
             Backup();
         }
 
-        private void backColorLabel_Click(object sender, EventArgs e)
-        {
-
-        }
 
         private void switchLight(object sender, EventArgs e)
         {
